@@ -1,6 +1,91 @@
 {
   "repos": [
     {
+      "url": "Achuan-2/siyuan-themes-tsundoku@5362b1d4f2821a96138f7c8d2573c58fb2d9dd46",
+      "updated": "2024-10-20T12:52:52Z",
+      "stars": 91,
+      "openIssues": 0,
+      "size": 3521555,
+      "installSize": 4627659,
+      "package": {
+        "name": "Tsundoku",
+        "author": "Achuan-2",
+        "url": "https://github.com/Achuan-2/siyuan-themes-tsundoku",
+        "version": "2.3.0",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "Tsundoku",
+          "zh_CN": "積読",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them",
+          "zh_CN": "知识的价值并不体现在它的组织和分类形式上，而是体现在它是否能对与你相关的人或事产生影响",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://www.yuque.com/achuan-2"
+          ]
+        },
+        "keywords": null
+      }
+    },
+    {
+      "url": "mustakshif/Asri@f86357b2995be12cd70781acdfd86b1872555741",
+      "updated": "2024-10-20T11:09:54Z",
+      "stars": 50,
+      "openIssues": 2,
+      "size": 2026841,
+      "installSize": 2423992,
+      "package": {
+        "name": "Asri",
+        "author": "MUSTAKSHIF",
+        "url": "https://github.com/mustakshif/Asri",
+        "version": "3.1.10",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "Asri",
+          "zh_CN": "Asri",
+          "en_US": "Asri"
+        },
+        "description": {
+          "default": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
+          "zh_CN": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
+          "en_US": "An ultra-modern theme that delivers an elegant, efficient, and personalized note-taking experience through its clean, intuitive design."
+        },
+        "readme": {
+          "default": "README_zh_CN.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/mustakshif"
+          ]
+        },
+        "keywords": [
+          "Asri",
+          "Hadeeth"
+        ]
+      }
+    },
+    {
       "url": "lingfengyu-dreaming/siyuan-vscodelite-edit@40d929daa6e92c2c9aa6e29acc87bc26e8026b44",
       "updated": "2024-10-14T08:09:53Z",
       "stars": 3,
@@ -48,95 +133,10 @@
       }
     },
     {
-      "url": "mustakshif/Asri@63ec80aba4a09fafaffbe319b2d96ad22b962178",
-      "updated": "2024-10-13T17:57:35Z",
-      "stars": 51,
-      "openIssues": 1,
-      "size": 2026628,
-      "installSize": 2421432,
-      "package": {
-        "name": "Asri",
-        "author": "MUSTAKSHIF",
-        "url": "https://github.com/mustakshif/Asri",
-        "version": "3.1.9",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "Asri",
-          "zh_CN": "Asri",
-          "en_US": "Asri"
-        },
-        "description": {
-          "default": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
-          "zh_CN": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
-          "en_US": "An ultra-modern theme that delivers an elegant, efficient, and personalized note-taking experience through its clean, intuitive design."
-        },
-        "readme": {
-          "default": "README_zh_CN.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/mustakshif"
-          ]
-        },
-        "keywords": [
-          "Asri",
-          "Hadeeth"
-        ]
-      }
-    },
-    {
-      "url": "Achuan-2/siyuan-themes-tsundoku@3cc55145afc92818efa58ebd8c5fb2547475ce78",
-      "updated": "2024-10-12T04:13:28Z",
-      "stars": 91,
-      "openIssues": 0,
-      "size": 3521519,
-      "installSize": 4627565,
-      "package": {
-        "name": "Tsundoku",
-        "author": "Achuan-2",
-        "url": "https://github.com/Achuan-2/siyuan-themes-tsundoku",
-        "version": "2.2.9",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "Tsundoku",
-          "zh_CN": "積読",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them",
-          "zh_CN": "知识的价值并不体现在它的组织和分类形式上，而是体现在它是否能对与你相关的人或事产生影响",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://www.yuque.com/achuan-2"
-          ]
-        },
-        "keywords": null
-      }
-    },
-    {
       "url": "royc01/notion-theme@dd67a6623beea48f0a477bd8b289746fb7531c1c",
       "updated": "2024-09-30T07:47:24Z",
       "stars": 106,
-      "openIssues": 16,
+      "openIssues": 17,
       "size": 4614864,
       "installSize": 5787066,
       "package": {
@@ -381,7 +381,7 @@
     {
       "url": "Zuoqiu-Yingyi/siyuan-theme-dark-plus@4568bfe5f2fdc31ab2b00e156f3de3d25f442fbe",
       "updated": "2024-09-03T15:15:18Z",
-      "stars": 138,
+      "stars": 139,
       "openIssues": 20,
       "size": 9140014,
       "installSize": 13260641,
@@ -1011,7 +1011,7 @@
     {
       "url": "frostime/sy-dark-purple@614bf2d1055f821e4d437e4b1aba5e936a4a6d5a",
       "updated": "2023-12-01T04:55:32Z",
-      "stars": 2,
+      "stars": 3,
       "openIssues": 0,
       "size": 303639,
       "installSize": 343123,
@@ -1257,7 +1257,7 @@
       "url": "StarDustSheep/It_hurts@a821992381e4658d8d3deafe5d55f951789c0b23",
       "updated": "2023-08-23T08:45:10Z",
       "stars": 0,
-      "openIssues": 1,
+      "openIssues": 2,
       "size": 658008,
       "installSize": 695588,
       "package": {
