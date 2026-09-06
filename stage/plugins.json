@@ -1,6 +1,54 @@
 {
   "repos": [
     {
+      "installSize": 111482,
+      "openIssues": 0,
+      "package": {
+        "author": "GustavMhaler",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Sync Moon+ Reader (静读天下) highlights and notes from WebDAV into SiYuan as per-book documents.",
+          "zh-CN": "把静读天下的高亮与批注从 WebDAV（坚果云等）自动同步到思源笔记，每本书一篇文档。"
+        },
+        "displayName": {
+          "default": "Moon+ Reader Sync",
+          "zh-CN": "静读天下同步"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "moon-reader",
+          "webdav",
+          "highlights",
+          "sync",
+          "静读天下"
+        ],
+        "minAppVersion": "3.1.0",
+        "name": "siyuan-moon-sync",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/GustavMhaler/siyuan-moon-sync",
+        "version": "0.1.3"
+      },
+      "packageZipAssetId": 535261752,
+      "packageZipSha256": "558bc98721cbffbfcb41e0c38decd1fe08b8d845b64fdf2709742782389e3a23",
+      "repoRef": "v0.1.3",
+      "size": 51242,
+      "stars": 0,
+      "updated": "2026-09-06T16:01:42Z",
+      "url": "GustavMhaler/siyuan-moon-sync@558bc98"
+    },
+    {
       "installSize": 10026452,
       "openIssues": 4,
       "package": {
