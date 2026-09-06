@@ -1,6 +1,52 @@
 {
   "repos": [
     {
+      "installSize": 294857,
+      "openIssues": 1,
+      "package": {
+        "author": "wmy2981",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Show heading breadcrumbs (h2-h6) of each block in the block reference search list",
+          "zh-CN": "在块引用搜索列表中显示每个块的标题层级面包屑（h2-h6）"
+        },
+        "displayName": {
+          "default": "Ref Crumbs",
+          "zh-CN": "引用块搜索列表显示面包屑"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "面包屑",
+          "breadcrumb",
+          "标题层级",
+          "heading",
+          "块引用",
+          "block ref"
+        ],
+        "minAppVersion": "3.6.0",
+        "name": "ref-crumbs-siyuan",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/wmy2981/ref-crumbs-siyuan",
+        "version": "0.1.1"
+      },
+      "packageZipAssetId": 546858292,
+      "packageZipSha256": "d2126d407aae3ef38f89acd68f87314a37d0ed988f8d055acba360ba5da31faa",
+      "repoRef": "v0.1.1",
+      "size": 269687,
+      "stars": 0,
+      "updated": "2026-09-06T10:53:22Z",
+      "url": "wmy2981/ref-crumbs-siyuan@d2126d4"
+    },
+    {
       "installSize": 1782105,
       "openIssues": 14,
       "package": {
