@@ -1,6 +1,57 @@
 {
   "repos": [
     {
+      "installSize": 448591,
+      "openIssues": 0,
+      "package": {
+        "author": "ai68298100",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A local-first SiYuan navigation workspace with live tab thumbnails, favorite folders, document card search, cross-plugin quick actions, sidebar mode, fullscreen, and mobile support.",
+          "zh-CN": "本地优先的思源导航工作区，支持页签缩略图、收藏夹、文档卡片搜索、跨插件快捷入口、侧边栏、全屏与手机端。"
+        },
+        "displayName": {
+          "default": "LvSpeed Switch",
+          "zh-CN": "小驴速切"
+        },
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "desktop-window",
+          "mobile",
+          "browser-mobile"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "页签切换",
+          "tab switch",
+          "标签页",
+          "快捷入口",
+          "speed switch",
+          "lv speed switch",
+          "小驴速切"
+        ],
+        "minAppVersion": "3.1.20",
+        "name": "siyuan-speed-switch",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "en-US": "README.en-US.md"
+        },
+        "url": "https://github.com/ai68298100/siyuan-speed-switch",
+        "version": "0.16.11"
+      },
+      "packageZipAssetId": 547466501,
+      "packageZipSha256": "8cf8712dd4db2691c38faad299ec63138cb3116dd900585b1a2460c8889762f8",
+      "repoRef": "v0.16.11",
+      "size": 199463,
+      "stars": 2,
+      "updated": "2026-09-06T17:27:42Z",
+      "url": "ai68298100/siyuan-speed-switch@8cf8712"
+    },
+    {
       "installSize": 111482,
       "openIssues": 0,
       "package": {
@@ -298,57 +349,6 @@
       "stars": 157,
       "updated": "2026-09-06T06:57:28Z",
       "url": "Achuan-2/siyuan-plugin-copilot@dfab0af"
-    },
-    {
-      "installSize": 427497,
-      "openIssues": 0,
-      "package": {
-        "author": "ai68298100",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A local-first SiYuan navigation workspace with live tab thumbnails, favorite folders, document card search, cross-plugin quick actions, sidebar mode, fullscreen, and mobile support.",
-          "zh-CN": "本地优先的思源导航工作区，支持页签缩略图、收藏夹、文档卡片搜索、跨插件快捷入口、侧边栏、全屏与手机端。"
-        },
-        "displayName": {
-          "default": "LvSpeed Switch",
-          "zh-CN": "小驴速切"
-        },
-        "frontends": [
-          "desktop",
-          "browser-desktop",
-          "desktop-window",
-          "mobile",
-          "browser-mobile"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "页签切换",
-          "tab switch",
-          "标签页",
-          "快捷入口",
-          "speed switch",
-          "lv speed switch",
-          "小驴速切"
-        ],
-        "minAppVersion": "3.1.20",
-        "name": "siyuan-speed-switch",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "en-US": "README.en-US.md"
-        },
-        "url": "https://github.com/ai68298100/siyuan-speed-switch",
-        "version": "0.16.10"
-      },
-      "packageZipAssetId": 546772712,
-      "packageZipSha256": "17dabb4eea94e049697e74e329402e54284d2eacdc6638c455f5ac8d4a35fb9c",
-      "repoRef": "v0.16.10",
-      "size": 194669,
-      "stars": 2,
-      "updated": "2026-09-06T05:20:08Z",
-      "url": "ai68298100/siyuan-speed-switch@17dabb4"
     },
     {
       "installSize": 2166704,
