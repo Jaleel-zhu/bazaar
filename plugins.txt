@@ -480,6 +480,7 @@ verygoodwu/siyuan-cloud-document-suite
 LongDarkroom/siyuan-plugin-reword
 xushuo97/diary-calendar
 CongSec/siyuan-plugin-meiday
+GustavMhaler/siyuan-moon-sync
 hong602/com.sunazure.backtotop
 fu1fan/siyuan-paper-manager
 vejomikakero/siyuan-worklog-calendar
