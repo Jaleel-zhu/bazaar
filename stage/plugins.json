@@ -1,7 +1,105 @@
 {
   "repos": [
     {
-      "installSize": 3545572,
+      "installSize": 10026452,
+      "openIssues": 4,
+      "package": {
+        "author": "steve",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
+          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
+          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "STtldraw",
+          "zh-CN": "ST白板",
+          "zh_CN": "ST白板"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "白板",
+          "whiteboard",
+          "handwriting",
+          "drawing",
+          "sketch",
+          "mindmap"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "siyuan-steve-tldraw",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
+        "version": "4.2.1"
+      },
+      "packageZipAssetId": 547286523,
+      "packageZipSha256": "20c5402fe982014dd068a0b5bef7dfc6c352a95ae551eb3107e5728d17cd74d5",
+      "repoRef": "v4.2.1",
+      "size": 3957098,
+      "stars": 3,
+      "updated": "2026-09-06T14:25:38Z",
+      "url": "loonghfut/siyuan-steve-tldraw@20c5402"
+    },
+    {
+      "installSize": 529794,
+      "openIssues": 2,
+      "package": {
+        "author": "LunaNorth",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A SiYuan Note plugin for customizing block appearance with attributes",
+          "zh_CN": "通过属性自定义块样式的思源笔记插件"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Light Decor Note",
+          "zh_CN": "轻饰笔记"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "卡片样式",
+          "属性样式",
+          "笔记美化"
+        ],
+        "minAppVersion": "3.3.3",
+        "name": "siyuan-deco",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/LunaNorth/siyuan-deco",
+        "version": "1.4.4"
+      },
+      "packageZipAssetId": 547181823,
+      "packageZipSha256": "05ec5c70c4f6e9c0b26b1e162386178224844a877c80382ddc7e2d454376161d",
+      "repoRef": "v1.4.4",
+      "size": 236284,
+      "stars": 4,
+      "updated": "2026-09-06T12:43:33Z",
+      "url": "LunaNorth/siyuan-deco@05ec5c7"
+    },
+    {
+      "installSize": 3547892,
       "openIssues": 1,
       "package": {
         "author": "verygoodwu",
@@ -54,15 +152,15 @@
           "zh-CN": "README.zh-CN.md"
         },
         "url": "https://github.com/verygoodwu/siyuan-cloud-document-suite",
-        "version": "2.1.12"
+        "version": "2.1.13"
       },
-      "packageZipAssetId": 547091183,
-      "packageZipSha256": "677a03547133abc4284aa43a776602d9a3dd8bf07cbd5f13e2e954851abdf64b",
-      "repoRef": "v2.1.12",
-      "size": 1046123,
+      "packageZipAssetId": 547158321,
+      "packageZipSha256": "1000aea3ea0f65a993cdcc5c317443606afd240e6dad42f5bdd0e7a70728aa2e",
+      "repoRef": "v2.1.13",
+      "size": 1046773,
       "stars": 0,
-      "updated": "2026-09-06T11:08:09Z",
-      "url": "verygoodwu/siyuan-cloud-document-suite@677a035"
+      "updated": "2026-09-06T12:17:08Z",
+      "url": "verygoodwu/siyuan-cloud-document-suite@1000aea"
     },
     {
       "installSize": 294857,
@@ -109,61 +207,6 @@
       "stars": 0,
       "updated": "2026-09-06T10:53:22Z",
       "url": "wmy2981/ref-crumbs-siyuan@d2126d4"
-    },
-    {
-      "installSize": 10026425,
-      "openIssues": 4,
-      "package": {
-        "author": "steve",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
-          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
-          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "STtldraw",
-          "zh-CN": "ST白板",
-          "zh_CN": "ST白板"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "白板",
-          "whiteboard",
-          "handwriting",
-          "drawing",
-          "sketch",
-          "mindmap"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "siyuan-steve-tldraw",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
-        "version": "4.2.0"
-      },
-      "packageZipAssetId": 546945953,
-      "packageZipSha256": "82e259d62a2719a6ff7988b03b49ed33303db12d11b21d16bace622afa112c2b",
-      "repoRef": "v4.2.0",
-      "size": 3957086,
-      "stars": 3,
-      "updated": "2026-09-06T08:36:39Z",
-      "url": "loonghfut/siyuan-steve-tldraw@82e259d"
     },
     {
       "installSize": 1782105,
@@ -923,49 +966,6 @@
       "stars": 1,
       "updated": "2026-09-05T06:56:40Z",
       "url": "houm01/stillmark-workbench@236f5c4"
-    },
-    {
-      "installSize": 497850,
-      "openIssues": 2,
-      "package": {
-        "author": "LunaNorth",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A SiYuan Note plugin for customizing block appearance with attributes",
-          "zh_CN": "通过属性自定义块样式的思源笔记插件"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Light Decor Note",
-          "zh_CN": "轻饰笔记"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "卡片样式",
-          "属性样式",
-          "笔记美化"
-        ],
-        "minAppVersion": "3.3.3",
-        "name": "siyuan-deco",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/LunaNorth/siyuan-deco",
-        "version": "1.4.3"
-      },
-      "packageZipAssetId": 545311196,
-      "packageZipSha256": "10c37f6a92e81b587713f21d805de1f063d0f756c4f344a572a1e11d443dff85",
-      "repoRef": "v1.4.3",
-      "size": 229175,
-      "stars": 4,
-      "updated": "2026-09-05T03:43:44Z",
-      "url": "LunaNorth/siyuan-deco@10c37f6"
     },
     {
       "installSize": 188073,
