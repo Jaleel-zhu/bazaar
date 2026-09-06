@@ -1,6 +1,70 @@
 {
   "repos": [
     {
+      "installSize": 3545572,
+      "openIssues": 1,
+      "package": {
+        "author": "verygoodwu",
+        "backends": [
+          "windows",
+          "linux",
+          "docker"
+        ],
+        "description": {
+          "default": "Create, edit, preview, and export documents, text files, spreadsheets, mind maps, and whiteboards in SiYuan.",
+          "zh-CN": "在思源中创建、编辑、预览和导出文档、纯文本文件、表格、脑图与白板。"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Cloud Document Suite",
+          "zh-CN": "云文档套件"
+        },
+        "frontends": [
+          "desktop",
+          "desktop-window",
+          "browser-desktop"
+        ],
+        "icon": "icon.png",
+        "kernels": [
+          "windows",
+          "linux",
+          "docker"
+        ],
+        "keywords": [
+          "document",
+          "text",
+          "html",
+          "office",
+          "excel",
+          "word",
+          "pdf",
+          "mindmap",
+          "whiteboard",
+          "云文档",
+          "办公套件",
+          "文本编辑器",
+          "白板",
+          "拖放"
+        ],
+        "minAppVersion": "3.7.4",
+        "name": "siyuan-cloud-document-suite",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/verygoodwu/siyuan-cloud-document-suite",
+        "version": "2.1.12"
+      },
+      "packageZipAssetId": 547091183,
+      "packageZipSha256": "677a03547133abc4284aa43a776602d9a3dd8bf07cbd5f13e2e954851abdf64b",
+      "repoRef": "v2.1.12",
+      "size": 1046123,
+      "stars": 0,
+      "updated": "2026-09-06T11:08:09Z",
+      "url": "verygoodwu/siyuan-cloud-document-suite@677a035"
+    },
+    {
       "installSize": 294857,
       "openIssues": 1,
       "package": {
@@ -45,6 +109,61 @@
       "stars": 0,
       "updated": "2026-09-06T10:53:22Z",
       "url": "wmy2981/ref-crumbs-siyuan@d2126d4"
+    },
+    {
+      "installSize": 10026425,
+      "openIssues": 4,
+      "package": {
+        "author": "steve",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
+          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
+          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "STtldraw",
+          "zh-CN": "ST白板",
+          "zh_CN": "ST白板"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "白板",
+          "whiteboard",
+          "handwriting",
+          "drawing",
+          "sketch",
+          "mindmap"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "siyuan-steve-tldraw",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
+        "version": "4.2.0"
+      },
+      "packageZipAssetId": 546945953,
+      "packageZipSha256": "82e259d62a2719a6ff7988b03b49ed33303db12d11b21d16bace622afa112c2b",
+      "repoRef": "v4.2.0",
+      "size": 3957086,
+      "stars": 3,
+      "updated": "2026-09-06T08:36:39Z",
+      "url": "loonghfut/siyuan-steve-tldraw@82e259d"
     },
     {
       "installSize": 1782105,
@@ -1231,61 +1350,6 @@
       "url": "Glaube-TY/siyuan-homepage@8673f14"
     },
     {
-      "installSize": 10022720,
-      "openIssues": 3,
-      "package": {
-        "author": "steve",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
-          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
-          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "STtldraw",
-          "zh-CN": "ST白板",
-          "zh_CN": "ST白板"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "白板",
-          "whiteboard",
-          "handwriting",
-          "drawing",
-          "sketch",
-          "mindmap"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "siyuan-steve-tldraw",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
-        "version": "4.1.0"
-      },
-      "packageZipAssetId": 543932655,
-      "packageZipSha256": "2bf5ffd258c245012920b66311678bb0041837cf5ae1a21b9eee31e898bedfbc",
-      "repoRef": "v4.1.0",
-      "size": 3956134,
-      "stars": 3,
-      "updated": "2026-09-04T06:59:35Z",
-      "url": "loonghfut/siyuan-steve-tldraw@2bf5ffd"
-    },
-    {
       "installSize": 1998890,
       "openIssues": 0,
       "package": {
@@ -1608,67 +1672,6 @@
       "stars": 0,
       "updated": "2026-09-03T08:50:54Z",
       "url": "haoge321/siyuan-plugin-weather@a5a22c5"
-    },
-    {
-      "installSize": 3408115,
-      "openIssues": 1,
-      "package": {
-        "author": "verygoodwu",
-        "backends": [
-          "windows",
-          "linux",
-          "docker"
-        ],
-        "description": {
-          "default": "Create, edit, preview, and export office documents, mind maps, and whiteboards in SiYuan.",
-          "zh-CN": "在思源中创建、编辑、预览和导出办公文档、脑图与白板。"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Cloud Document Suite",
-          "zh-CN": "云文档套件"
-        },
-        "frontends": [
-          "desktop",
-          "desktop-window",
-          "browser-desktop"
-        ],
-        "icon": "icon.png",
-        "kernels": [
-          "windows",
-          "linux",
-          "docker"
-        ],
-        "keywords": [
-          "document",
-          "office",
-          "excel",
-          "word",
-          "pdf",
-          "mindmap",
-          "whiteboard",
-          "云文档",
-          "办公套件",
-          "白板",
-          "拖放"
-        ],
-        "minAppVersion": "3.7.4",
-        "name": "siyuan-cloud-document-suite",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md"
-        },
-        "url": "https://github.com/verygoodwu/siyuan-cloud-document-suite",
-        "version": "2.1.4"
-      },
-      "packageZipAssetId": 542249684,
-      "packageZipSha256": "8d2e1b7d53c7b70ce47b6b37380dd7220c970f5e2484a20a56aa1622490efb53",
-      "repoRef": "v2.1.4",
-      "size": 1004597,
-      "stars": 0,
-      "updated": "2026-09-03T05:17:52Z",
-      "url": "verygoodwu/siyuan-cloud-document-suite@8d2e1b7"
     },
     {
       "installSize": 213687,

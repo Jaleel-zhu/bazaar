@@ -1,6 +1,42 @@
 {
   "repos": [
     {
+      "installSize": 29826010,
+      "openIssues": 1,
+      "package": {
+        "author": "BryceAndJuly",
+        "description": {
+          "default": "一个离线版的Excalidraw，嵌入后会默认铺满文档区域",
+          "en_US": "An offline version of the Excalidraw. After embedding, it will default to fill the document area."
+        },
+        "displayName": {
+          "default": "Whiteboard"
+        },
+        "funding": {
+          "custom": [
+            ""
+          ]
+        },
+        "icon": "icon.png",
+        "minAppVersion": "2.9.0",
+        "name": "Whiteboard",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "en_US": "README_en_US.md"
+        },
+        "url": "https://github.com/BryceAndJuly/Whiteboard",
+        "version": "2.1.8"
+      },
+      "packageZipAssetId": 547094507,
+      "packageZipSha256": "7cfc16ccb1b0fd99b1abd43a833addfb6ec2ba3af17a9d1250fc4d126e756ec4",
+      "repoRef": "V2.1.8",
+      "size": 19122700,
+      "stars": 35,
+      "updated": "2026-09-06T11:12:09Z",
+      "url": "BryceAndJuly/Whiteboard@7cfc16c"
+    },
+    {
       "installSize": 488330,
       "openIssues": 0,
       "package": {
@@ -38,40 +74,6 @@
       "stars": 6,
       "updated": "2026-08-31T16:45:06Z",
       "url": "siyuan-note/widget-sample@95e515f"
-    },
-    {
-      "installSize": 29823990,
-      "openIssues": 1,
-      "package": {
-        "author": "BryceAndJuly",
-        "description": {
-          "default": "一个离线版的Excalidraw，嵌入后会默认铺满文档区域",
-          "en_US": "An offline version of the Excalidraw. After embedding, it will default to fill the document area."
-        },
-        "displayName": {
-          "default": "Whiteboard"
-        },
-        "funding": {
-          "custom": [
-            ""
-          ]
-        },
-        "minAppVersion": "2.9.0",
-        "name": "Whiteboard",
-        "readme": {
-          "default": "README.md",
-          "en_US": "README_en_US.md"
-        },
-        "url": "https://github.com/BryceAndJuly/Whiteboard",
-        "version": "2.1.7"
-      },
-      "packageZipAssetId": 537905646,
-      "packageZipSha256": "b86f6b28be02f2f806f237b659a64f09ad23bc40b181c6d0732bf60057cff43e",
-      "repoRef": "V2.1.7",
-      "size": 19122096,
-      "stars": 35,
-      "updated": "2026-08-31T11:42:41Z",
-      "url": "BryceAndJuly/Whiteboard@b86f6b2"
     },
     {
       "installSize": 397733,
