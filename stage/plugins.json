@@ -1,6 +1,54 @@
 {
   "repos": [
     {
+      "installSize": 2166704,
+      "openIssues": 2,
+      "package": {
+        "author": "LunaNorth",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A lightweight note-taking plugin for SiYuan, inspired by Flomo",
+          "zh_CN": "记录每一个轻闪而过的念头"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Lumina",
+          "zh_CN": "轻语"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://testingcf.jsdelivr.net/gh/LunaNorth/north-img/images/20260519195219305.png"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "碎碎念",
+          "记录",
+          "回顾"
+        ],
+        "minAppVersion": "3.3.3",
+        "name": "siyuan-lumina",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/LunaNorth/siyuan-lumina",
+        "version": "2.3.5"
+      },
+      "packageZipAssetId": 546555837,
+      "packageZipSha256": "9899e5029dd802d6b7c116563f6b62d2ab4ff8fc63ee8e9da4c759360002e970",
+      "repoRef": "v2.3.5",
+      "size": 603387,
+      "stars": 16,
+      "updated": "2026-09-06T01:20:28Z",
+      "url": "LunaNorth/siyuan-lumina@9899e50"
+    },
+    {
       "installSize": 853160,
       "openIssues": 0,
       "package": {
@@ -567,54 +615,6 @@
       "stars": 22,
       "updated": "2026-09-05T13:57:39Z",
       "url": "OpaqueGlass/syplugin-hierarchyNavigate@f9d2fa4"
-    },
-    {
-      "installSize": 2100782,
-      "openIssues": 2,
-      "package": {
-        "author": "LunaNorth",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A lightweight note-taking plugin for SiYuan, inspired by Flomo",
-          "zh_CN": "记录每一个轻闪而过的念头"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Lumina",
-          "zh_CN": "轻语"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://testingcf.jsdelivr.net/gh/LunaNorth/north-img/images/20260519195219305.png"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "碎碎念",
-          "记录",
-          "回顾"
-        ],
-        "minAppVersion": "3.3.3",
-        "name": "siyuan-lumina",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/LunaNorth/siyuan-lumina",
-        "version": "2.3.4"
-      },
-      "packageZipAssetId": 545812145,
-      "packageZipSha256": "465a643e9f687178da2e1eaddf153eac386f6ab7ba9af2d030e5afd10cd4f028",
-      "repoRef": "v2.3.4",
-      "size": 588017,
-      "stars": 16,
-      "updated": "2026-09-05T12:40:30Z",
-      "url": "LunaNorth/siyuan-lumina@465a643"
     },
     {
       "installSize": 333020,
