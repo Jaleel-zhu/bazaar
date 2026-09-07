@@ -1,6 +1,234 @@
 {
   "repos": [
     {
+      "installSize": 2042936,
+      "openIssues": 0,
+      "package": {
+        "author": "Glaube-TY",
+        "backends": [
+          "windows",
+          "linux",
+          "ios",
+          "android",
+          "harmony",
+          "docker",
+          "darwin"
+        ],
+        "description": {
+          "en_US": "Obtain Douban book information and add it to the database &amp; synchronize weread notes.",
+          "zh_CN": "豆瓣书籍信息获取并添加到数据库 &amp; 同步微信读书笔记。"
+        },
+        "displayName": {
+          "en_US": "Reading Notes",
+          "zh_CN": "读书笔记"
+        },
+        "frontends": [
+          "desktop",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "funding": {
+          "custom": [
+            "https://glaube-ty.top/da-shang/"
+          ]
+        },
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "豆瓣读书",
+          "douban",
+          "书籍",
+          "book",
+          "读书笔记",
+          "笔记",
+          "read",
+          "note",
+          "booknote",
+          "weread",
+          "微信读书",
+          "微信"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "siyuan-douban",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/Glaube-TY/siyuan-douban",
+        "version": "4.3.2"
+      },
+      "packageZipAssetId": 548674173,
+      "packageZipSha256": "990101698a56c26e7806bc5990d36ad4467e73ee016b838b260ec863eb4eb716",
+      "repoRef": "v4.3.2",
+      "size": 713121,
+      "stars": 29,
+      "updated": "2026-09-07T11:23:11Z",
+      "url": "Glaube-TY/siyuan-douban@9901016"
+    },
+    {
+      "installSize": 2203876,
+      "openIssues": 0,
+      "package": {
+        "author": "QYL",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A companion plugin for the Neo theme",
+          "zh-CN": "Neo主题的配套插件",
+          "zh-TW": "Neo主題的配套插件"
+        },
+        "displayName": {
+          "default": "Neo+"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "Apple",
+          "macOS",
+          "Cupertino"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "Neo-Plus",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh-TW": "README.zh-TW.md"
+        },
+        "url": "https://github.com/QYLexpired/Neo-Plus",
+        "version": "1.6.0"
+      },
+      "packageZipAssetId": 548597510,
+      "packageZipSha256": "ac04c41590bd404ddae7c2523b28bb05b0e4d41af307871c57af7aa9c09b7adf",
+      "repoRef": "v1.6.0",
+      "size": 1317656,
+      "stars": 13,
+      "updated": "2026-09-07T10:19:02Z",
+      "url": "QYLexpired/Neo-Plus@ac04c41"
+    },
+    {
+      "installSize": 2503678,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · Finally finish what you read: excerpt &amp; piece-based progressive reading with sentence splitting, cloze deletion, word flashcards and Daily Card — a full loop from reading to review.",
+          "zh_CN": "🔓 已开源 · 让长文真正读得完：摘抄式与分片式渐进阅读，断句拆分、多行挖空、单词闪卡、Daily Card——从阅读输入到闪卡复习的完整闭环"
+        },
+        "displayName": {
+          "default": "Progressive Learning",
+          "zh_CN": "渐进学习"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "渐进学习",
+          "渐进阅读",
+          "Progressive Reading",
+          "挖空",
+          "Cloze",
+          "闪卡",
+          "Flashcard",
+          "摘抄",
+          "断句",
+          "Sentence Split",
+          "拼音",
+          "Pinyin",
+          "Daily Card"
+        ],
+        "minAppVersion": "2.12.6",
+        "name": "sy-progressive-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
+        "version": "3.4.3"
+      },
+      "packageZipAssetId": 548577376,
+      "packageZipSha256": "12111184affff3af24594dff3c7157a773e79b9d8b19fe48adadf62ec0706557",
+      "repoRef": "v3.4.3",
+      "size": 680298,
+      "stars": 26,
+      "updated": "2026-09-07T10:03:23Z",
+      "url": "IAliceBobI/sy-progressive-plugin@1211118"
+    },
+    {
+      "installSize": 3936131,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
+          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
+        },
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "番茄钟",
+          "番茄",
+          "Pomodoro",
+          "闪卡",
+          "Flashcard",
+          "复习",
+          "Review",
+          "反链",
+          "Backlink",
+          "同步块",
+          "批注",
+          "思维导图",
+          "Mindmap",
+          "AI",
+          "问答",
+          "文档合并"
+        ],
+        "minAppVersion": "3.0.3",
+        "name": "sy-tomato-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "5.7.2"
+      },
+      "packageZipAssetId": 548575309,
+      "packageZipSha256": "d306ad47f6fdc8f0af65d35a629e6dbea7c75973e98a3b607b3edd36753e4471",
+      "repoRef": "v5.7.2",
+      "size": 1211274,
+      "stars": 50,
+      "updated": "2026-09-07T10:01:51Z",
+      "url": "IAliceBobI/sy-tomato-plugin@d306ad4"
+    },
+    {
       "installSize": 10266283,
       "openIssues": 3,
       "package": {
@@ -501,115 +729,6 @@
       "stars": 1,
       "updated": "2026-09-05T18:20:58Z",
       "url": "CongSec/siyuan-plugin-meiday@0549d36"
-    },
-    {
-      "installSize": 2479073,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · Finally finish what you read: excerpt &amp; piece-based progressive reading with sentence splitting, cloze deletion, word flashcards and Daily Card — a full loop from reading to review.",
-          "zh_CN": "🔓 已开源 · 让长文真正读得完：摘抄式与分片式渐进阅读，断句拆分、多行挖空、单词闪卡、Daily Card——从阅读输入到闪卡复习的完整闭环"
-        },
-        "displayName": {
-          "default": "Progressive Learning",
-          "zh_CN": "渐进学习"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "渐进学习",
-          "渐进阅读",
-          "Progressive Reading",
-          "挖空",
-          "Cloze",
-          "闪卡",
-          "Flashcard",
-          "摘抄",
-          "断句",
-          "Sentence Split",
-          "拼音",
-          "Pinyin",
-          "Daily Card"
-        ],
-        "minAppVersion": "2.12.6",
-        "name": "sy-progressive-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
-        "version": "3.4.2"
-      },
-      "packageZipAssetId": 546039095,
-      "packageZipSha256": "4a517a2790341c06d2cf9b4526450ce34d09e9e871a66c2b76bab9d7b2e28857",
-      "repoRef": "v3.4.2",
-      "size": 672758,
-      "stars": 25,
-      "updated": "2026-09-05T16:34:56Z",
-      "url": "IAliceBobI/sy-progressive-plugin@4a517a2"
-    },
-    {
-      "installSize": 4133269,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
-          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
-        },
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "番茄钟",
-          "番茄",
-          "Pomodoro",
-          "闪卡",
-          "Flashcard",
-          "复习",
-          "Review",
-          "反链",
-          "Backlink",
-          "同步块",
-          "批注",
-          "思维导图",
-          "Mindmap",
-          "AI",
-          "问答",
-          "文档合并"
-        ],
-        "minAppVersion": "3.0.3",
-        "name": "sy-tomato-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "5.7.1"
-      },
-      "packageZipAssetId": 546037779,
-      "packageZipSha256": "e3a6e9173afe2bf5637be3fb29c4bbe2e223f2f8d9ced7e1df59698fc92fe1b7",
-      "repoRef": "v5.7.1",
-      "size": 1265782,
-      "stars": 50,
-      "updated": "2026-09-05T16:33:30Z",
-      "url": "IAliceBobI/sy-tomato-plugin@e3a6e91"
     },
     {
       "installSize": 1758837,
@@ -1398,76 +1517,6 @@
       "url": "Glaube-TY/siyuan-homepage@8673f14"
     },
     {
-      "installSize": 1998890,
-      "openIssues": 0,
-      "package": {
-        "author": "Glaube-TY",
-        "backends": [
-          "windows",
-          "linux",
-          "ios",
-          "android",
-          "harmony",
-          "docker",
-          "darwin"
-        ],
-        "description": {
-          "en_US": "Obtain Douban book information and add it to the database &amp; synchronize weread notes.",
-          "zh_CN": "豆瓣书籍信息获取并添加到数据库 &amp; 同步微信读书笔记。"
-        },
-        "displayName": {
-          "en_US": "Reading Notes",
-          "zh_CN": "读书笔记"
-        },
-        "frontends": [
-          "desktop",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "funding": {
-          "custom": [
-            "https://glaube-ty.top/da-shang/"
-          ]
-        },
-        "icon": "icon.png",
-        "kernels": [
-          "all"
-        ],
-        "keywords": [
-          "豆瓣读书",
-          "douban",
-          "书籍",
-          "book",
-          "读书笔记",
-          "笔记",
-          "read",
-          "note",
-          "booknote",
-          "weread",
-          "微信读书",
-          "微信"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "siyuan-douban",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/Glaube-TY/siyuan-douban",
-        "version": "4.3.1"
-      },
-      "packageZipAssetId": 543889969,
-      "packageZipSha256": "4905cf2b5c20fc4efe85f24b6209fdd67708d7067d00508ebf06bed9b89ead6a",
-      "repoRef": "v4.3.1",
-      "size": 702414,
-      "stars": 29,
-      "updated": "2026-09-04T06:14:23Z",
-      "url": "Glaube-TY/siyuan-douban@4905cf2"
-    },
-    {
       "installSize": 5302411,
       "openIssues": 1,
       "package": {
@@ -1835,55 +1884,6 @@
       "stars": 215,
       "updated": "2026-09-03T01:12:08Z",
       "url": "Achuan-2/siyuan-plugin-task-note-management@5163b1e"
-    },
-    {
-      "installSize": 2160604,
-      "openIssues": 0,
-      "package": {
-        "author": "QYL",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A companion plugin for the Neo theme",
-          "zh-CN": "Neo主题的配套插件",
-          "zh-TW": "Neo主題的配套插件"
-        },
-        "displayName": {
-          "default": "Neo+"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "Apple",
-          "macOS",
-          "Cupertino"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "Neo-Plus",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh-TW": "README.zh-TW.md"
-        },
-        "url": "https://github.com/QYLexpired/Neo-Plus",
-        "version": "1.5.8"
-      },
-      "packageZipAssetId": 541377016,
-      "packageZipSha256": "83ff4325a68c5c7ca870f143287a7b078b51a551aa871fa815f1b0d48ecc01c4",
-      "repoRef": "v1.5.8",
-      "size": 1313879,
-      "stars": 13,
-      "updated": "2026-09-02T15:33:05Z",
-      "url": "QYLexpired/Neo-Plus@83ff432"
     },
     {
       "installSize": 226841,

@@ -1,7 +1,57 @@
 {
   "repos": [
     {
-      "installSize": 570962,
+      "installSize": 587651,
+      "openIssues": 0,
+      "package": {
+        "author": "QYL",
+        "description": {
+          "default": "An Apple-inspired, meticulously crafted, production-grade theme",
+          "zh-CN": "以 Apple 设计语言为灵感，精心打磨的毕业级主题",
+          "zh-TW": "以 Apple 設計語言為靈感，精心打磨的畢業級主題"
+        },
+        "displayName": {
+          "default": "Neo"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "Apple",
+          "macOS",
+          "Cupertino"
+        ],
+        "minAppVersion": "3.8.0",
+        "modes": [
+          "light",
+          "dark"
+        ],
+        "name": "Neo",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh-TW": "README.zh-TW.md"
+        },
+        "url": "https://github.com/QYLexpired/Neo",
+        "version": "1.6.0"
+      },
+      "packageZipAssetId": 548599561,
+      "packageZipSha256": "939b5d5f94412445cf93d365f268779d7dd6b28556b46eda45f002d44f0b92c5",
+      "repoRef": "v1.6.0",
+      "size": 190338,
+      "stars": 32,
+      "updated": "2026-09-07T10:20:31Z",
+      "url": "QYLexpired/Neo@939b5d5"
+    },
+    {
+      "installSize": 572155,
       "openIssues": 0,
       "package": {
         "author": "fyuan",
@@ -38,15 +88,61 @@
           "zh-CN": "README_zh_CN.md"
         },
         "url": "https://github.com/fyuanace/cursorart",
-        "version": "2.0.3"
+        "version": "2.0.4"
       },
-      "packageZipAssetId": 548199548,
-      "packageZipSha256": "3a88c37e36f0a308f153c0f2a190904d2b00051b06bc42399d8da2e8390618f2",
-      "repoRef": "v2.0.3",
-      "size": 511772,
+      "packageZipAssetId": 548293262,
+      "packageZipSha256": "f169f6ee7cd2c6eedfad93f5d6bf94fc2d6503a96cb4ce0767b7bac0cae03c77",
+      "repoRef": "v2.0.4",
+      "size": 512078,
       "stars": 0,
-      "updated": "2026-09-07T06:16:08Z",
-      "url": "fyuanace/cursorart@3a88c37"
+      "updated": "2026-09-07T06:30:38Z",
+      "url": "fyuanace/cursorart@f169f6e"
+    },
+    {
+      "installSize": 708119,
+      "openIssues": 2,
+      "package": {
+        "author": "mustakshif",
+        "description": {
+          "default": "Crafting a space where visual distractions disappear and your thinking takes center stage - immersive, focused, and intuitively guided.",
+          "zh_CN": "极富现代感的主题，以隐形设计构筑沉浸空间，为你带来专注、优雅、直觉驱动的笔记体验。"
+        },
+        "displayName": {
+          "default": "Asri"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://d7y10jvubi.feishu.cn/docx/R9AOd6OXSo9JThx2AH6cUo4tntf"
+          ]
+        },
+        "icon": "",
+        "keywords": [
+          "Asri"
+        ],
+        "minAppVersion": "3.7.0",
+        "modes": [
+          "light",
+          "dark"
+        ],
+        "name": "Asri",
+        "preview": "",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/mustakshif/Asri",
+        "version": "3.7.15"
+      },
+      "packageZipAssetId": 548251726,
+      "packageZipSha256": "f553f8e5e18e497c5959529200ea0049ba5607ddbbba26aeb6cdce9307d0a055",
+      "repoRef": "v3.7.15",
+      "size": 294224,
+      "stars": 130,
+      "updated": "2026-09-07T05:52:04Z",
+      "url": "mustakshif/Asri@f553f8e"
     },
     {
       "installSize": 439249,
@@ -98,56 +194,6 @@
       "stars": 3,
       "updated": "2026-09-07T05:07:03Z",
       "url": "emptylight370/siyuan-vscodelite-edit@21d57d5"
-    },
-    {
-      "installSize": 581155,
-      "openIssues": 0,
-      "package": {
-        "author": "QYL",
-        "description": {
-          "default": "An Apple-inspired, meticulously crafted, production-grade theme",
-          "zh-CN": "以 Apple 设计语言为灵感，精心打磨的毕业级主题",
-          "zh-TW": "以 Apple 設計語言為靈感，精心打磨的畢業級主題"
-        },
-        "displayName": {
-          "default": "Neo"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "Apple",
-          "macOS",
-          "Cupertino"
-        ],
-        "minAppVersion": "3.8.0",
-        "modes": [
-          "light",
-          "dark"
-        ],
-        "name": "Neo",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh-TW": "README.zh-TW.md"
-        },
-        "url": "https://github.com/QYLexpired/Neo",
-        "version": "1.5.8"
-      },
-      "packageZipAssetId": 541376494,
-      "packageZipSha256": "a4b91ce1eeaef1606fe072809911f8a0033f72338ed0cf50b1c1e2da2b2ee32f",
-      "repoRef": "v1.5.8",
-      "size": 190047,
-      "stars": 31,
-      "updated": "2026-09-02T15:32:40Z",
-      "url": "QYLexpired/Neo@a4b91ce"
     },
     {
       "installSize": 1165969,
@@ -234,50 +280,6 @@
       "stars": 7,
       "updated": "2026-08-31T16:45:05Z",
       "url": "siyuan-note/theme-sample@798902a"
-    },
-    {
-      "installSize": 709680,
-      "openIssues": 1,
-      "package": {
-        "author": "mustakshif",
-        "description": {
-          "default": "Crafting a space where visual distractions disappear and your thinking takes center stage - immersive, focused, and intuitively guided.",
-          "zh_CN": "极富现代感的主题，以隐形设计构筑沉浸空间，为你带来专注、优雅、直觉驱动的笔记体验。"
-        },
-        "displayName": {
-          "default": "Asri"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://d7y10jvubi.feishu.cn/docx/R9AOd6OXSo9JThx2AH6cUo4tntf"
-          ]
-        },
-        "keywords": [
-          "Asri"
-        ],
-        "minAppVersion": "3.7.0",
-        "modes": [
-          "light",
-          "dark"
-        ],
-        "name": "Asri",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/mustakshif/Asri",
-        "version": "3.7.14"
-      },
-      "packageZipAssetId": 536659561,
-      "packageZipSha256": "007035600b970698c062f4b0de7009ec2186e8b019a89aba905b2f6e7362080e",
-      "repoRef": "v3.7.14",
-      "size": 294258,
-      "stars": 130,
-      "updated": "2026-08-30T13:45:31Z",
-      "url": "mustakshif/Asri@0070356"
     },
     {
       "installSize": 300711,
