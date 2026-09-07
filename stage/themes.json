@@ -1,6 +1,57 @@
 {
   "repos": [
     {
+      "installSize": 439249,
+      "openIssues": 4,
+      "package": {
+        "author": "Emptylight",
+        "description": {
+          "default": "Evolved from VSCode Lite, further beautifying the interface.",
+          "zh-CN": "从VSCode Lite中改造而来，进一步美化界面。",
+          "zh-TW": "從VSCode Lite中改造而來，進一步美化界面。"
+        },
+        "displayName": {
+          "default": "VSCode Lite Edit"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://blog.emptylight.cn/sponsor",
+            "https://emptylight370.github.io/sponsor"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "VSCE",
+          "VSCE主题",
+          "VSCE theme"
+        ],
+        "minAppVersion": "3.8.3",
+        "modes": [
+          "light",
+          "dark"
+        ],
+        "name": "siyuan-vscodelite-edit",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh-TW": "README.zh-CN.md"
+        },
+        "url": "https://github.com/emptylight370/siyuan-vscodelite-edit",
+        "version": "3.1.0"
+      },
+      "packageZipAssetId": 548199424,
+      "packageZipSha256": "21d57d55142a7d8bc757aa074ec2e86ea230a0e71550088a61cfb4403e95274b",
+      "repoRef": "3.1.0",
+      "size": 302009,
+      "stars": 3,
+      "updated": "2026-09-07T05:07:03Z",
+      "url": "emptylight370/siyuan-vscodelite-edit@21d57d5"
+    },
+    {
       "installSize": 581155,
       "openIssues": 0,
       "package": {
@@ -135,55 +186,6 @@
       "stars": 7,
       "updated": "2026-08-31T16:45:05Z",
       "url": "siyuan-note/theme-sample@798902a"
-    },
-    {
-      "installSize": 439317,
-      "openIssues": 4,
-      "package": {
-        "author": "Emptylight",
-        "description": {
-          "default": "Evolved from VSCode Lite, further beautifying the interface.",
-          "zh-CN": "从VSCode Lite中改造而来，进一步美化界面。",
-          "zh-TW": "從VSCode Lite中改造而來，進一步美化界面。"
-        },
-        "displayName": {
-          "default": "VSCode Lite Edit"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://blog.emptylight.cn/sponsor",
-            "https://emptylight370.github.io/sponsor"
-          ]
-        },
-        "keywords": [
-          "VSCE",
-          "VSCE主题",
-          "VSCE theme"
-        ],
-        "minAppVersion": "3.8.2",
-        "modes": [
-          "light",
-          "dark"
-        ],
-        "name": "siyuan-vscodelite-edit",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh-TW": "README.zh-CN.md"
-        },
-        "url": "https://github.com/emptylight370/siyuan-vscodelite-edit",
-        "version": "3.0.15"
-      },
-      "packageZipAssetId": 538147250,
-      "packageZipSha256": "5587ee4b20a00bf69f352998e72711971de4886c15859e4499c57c75696f5479",
-      "repoRef": "3.0.15",
-      "size": 301978,
-      "stars": 3,
-      "updated": "2026-08-31T15:08:17Z",
-      "url": "emptylight370/siyuan-vscodelite-edit@5587ee4"
     },
     {
       "installSize": 709680,

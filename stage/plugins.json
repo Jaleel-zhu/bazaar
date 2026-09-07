@@ -1,6 +1,161 @@
 {
   "repos": [
     {
+      "installSize": 10266283,
+      "openIssues": 3,
+      "package": {
+        "author": "steve",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
+          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
+          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "STtldraw",
+          "zh-CN": "ST白板",
+          "zh_CN": "ST白板"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "白板",
+          "whiteboard",
+          "handwriting",
+          "drawing",
+          "sketch",
+          "mindmap"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "siyuan-steve-tldraw",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
+        "version": "4.3.0"
+      },
+      "packageZipAssetId": 548143172,
+      "packageZipSha256": "bd6c39912c068faab6a188ae0155480067f1922702a29f3c3f43ab0ffa51b860",
+      "repoRef": "v4.3.0",
+      "size": 4031083,
+      "stars": 3,
+      "updated": "2026-09-07T04:18:54Z",
+      "url": "loonghfut/siyuan-steve-tldraw@bd6c399"
+    },
+    {
+      "installSize": 2214439,
+      "openIssues": 2,
+      "package": {
+        "author": "LunaNorth",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A lightweight note-taking plugin for SiYuan, inspired by Flomo",
+          "zh_CN": "记录每一个轻闪而过的念头"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Lumina",
+          "zh_CN": "轻语"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://testingcf.jsdelivr.net/gh/LunaNorth/north-img/images/20260519195219305.png"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "碎碎念",
+          "记录",
+          "回顾"
+        ],
+        "minAppVersion": "3.3.3",
+        "name": "siyuan-lumina",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/LunaNorth/siyuan-lumina",
+        "version": "2.3.6"
+      },
+      "packageZipAssetId": 547970715,
+      "packageZipSha256": "2a6ac93c177756dd77f238cd49cb865540ff4d73e2c242e8e23327dfe1104ca6",
+      "repoRef": "v2.3.6",
+      "size": 616337,
+      "stars": 16,
+      "updated": "2026-09-07T01:47:54Z",
+      "url": "LunaNorth/siyuan-lumina@2a6ac93"
+    },
+    {
+      "installSize": 3575143,
+      "openIssues": 5,
+      "package": {
+        "author": "Roy",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A habit tracking plugin for SiYuan",
+          "zh_CN": "每一次微小的坚持都值得记录"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Pinch Habit",
+          "zh_CN": "片趣-习惯打卡&amp;任务管理"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://afdian.com/a/Savor"
+          ]
+        },
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "habit",
+          "tracker",
+          "check-in"
+        ],
+        "minAppVersion": "3.7.0",
+        "name": "pinch",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/royc01/pinch",
+        "version": "2.6.6"
+      },
+      "packageZipAssetId": 547891396,
+      "packageZipSha256": "4b0e4a1f6fd6bf0ed70766873ecfa507c7f934c9e4e4ea5fdecf0ed9b93bbbf0",
+      "repoRef": "v2.6.6",
+      "size": 1392638,
+      "stars": 20,
+      "updated": "2026-09-07T00:39:30Z",
+      "url": "royc01/pinch@4b0e4a1"
+    },
+    {
       "installSize": 448591,
       "openIssues": 0,
       "package": {
@@ -98,61 +253,6 @@
       "stars": 0,
       "updated": "2026-09-06T16:01:42Z",
       "url": "GustavMhaler/siyuan-moon-sync@558bc98"
-    },
-    {
-      "installSize": 10026452,
-      "openIssues": 4,
-      "package": {
-        "author": "steve",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
-          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
-          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "STtldraw",
-          "zh-CN": "ST白板",
-          "zh_CN": "ST白板"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "白板",
-          "whiteboard",
-          "handwriting",
-          "drawing",
-          "sketch",
-          "mindmap"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "siyuan-steve-tldraw",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
-        "version": "4.2.1"
-      },
-      "packageZipAssetId": 547286523,
-      "packageZipSha256": "20c5402fe982014dd068a0b5bef7dfc6c352a95ae551eb3107e5728d17cd74d5",
-      "repoRef": "v4.2.1",
-      "size": 3957098,
-      "stars": 3,
-      "updated": "2026-09-06T14:25:38Z",
-      "url": "loonghfut/siyuan-steve-tldraw@20c5402"
     },
     {
       "installSize": 529794,
@@ -349,54 +449,6 @@
       "stars": 157,
       "updated": "2026-09-06T06:57:28Z",
       "url": "Achuan-2/siyuan-plugin-copilot@dfab0af"
-    },
-    {
-      "installSize": 2166704,
-      "openIssues": 2,
-      "package": {
-        "author": "LunaNorth",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A lightweight note-taking plugin for SiYuan, inspired by Flomo",
-          "zh_CN": "记录每一个轻闪而过的念头"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Lumina",
-          "zh_CN": "轻语"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://testingcf.jsdelivr.net/gh/LunaNorth/north-img/images/20260519195219305.png"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "碎碎念",
-          "记录",
-          "回顾"
-        ],
-        "minAppVersion": "3.3.3",
-        "name": "siyuan-lumina",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/LunaNorth/siyuan-lumina",
-        "version": "2.3.5"
-      },
-      "packageZipAssetId": 546555837,
-      "packageZipSha256": "9899e5029dd802d6b7c116563f6b62d2ab4ff8fc63ee8e9da4c759360002e970",
-      "repoRef": "v2.3.5",
-      "size": 603387,
-      "stars": 16,
-      "updated": "2026-09-06T01:20:28Z",
-      "url": "LunaNorth/siyuan-lumina@9899e50"
     },
     {
       "installSize": 853160,
@@ -1254,58 +1306,6 @@
       "stars": 9,
       "updated": "2026-09-04T09:07:13Z",
       "url": "HaoCeans/siyuan-toolbar-customizer@7829478"
-    },
-    {
-      "installSize": 3534204,
-      "openIssues": 7,
-      "package": {
-        "author": "Roy",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A habit tracking plugin for SiYuan",
-          "zh_CN": "每一次微小的坚持都值得记录"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Pinch Habit",
-          "zh_CN": "片趣-习惯打卡&amp;任务管理"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://afdian.com/a/Savor"
-          ]
-        },
-        "icon": "icon.png",
-        "kernels": [
-          "all"
-        ],
-        "keywords": [
-          "habit",
-          "tracker",
-          "check-in"
-        ],
-        "minAppVersion": "3.7.0",
-        "name": "pinch",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/royc01/pinch",
-        "version": "2.6.5"
-      },
-      "packageZipAssetId": 544014782,
-      "packageZipSha256": "eb2ee2329bc6cb0b6989c66ad7348725291067ff98e81b71b49bb7ec9b74a1ea",
-      "repoRef": "v2.6.5",
-      "size": 1383661,
-      "stars": 20,
-      "updated": "2026-09-04T08:14:09Z",
-      "url": "royc01/pinch@eb2ee23"
     },
     {
       "installSize": 14886250,
