@@ -1,6 +1,52 @@
 {
   "repos": [
     {
+      "installSize": 708171,
+      "openIssues": 2,
+      "package": {
+        "author": "mustakshif",
+        "description": {
+          "default": "Crafting a space where visual distractions disappear and your thinking takes center stage - immersive, focused, and intuitively guided.",
+          "zh_CN": "极富现代感的主题，以隐形设计构筑沉浸空间，为你带来专注、优雅、直觉驱动的笔记体验。"
+        },
+        "displayName": {
+          "default": "Asri"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://d7y10jvubi.feishu.cn/docx/R9AOd6OXSo9JThx2AH6cUo4tntf"
+          ]
+        },
+        "icon": "icon.webp",
+        "keywords": [
+          "Asri"
+        ],
+        "minAppVersion": "3.7.0",
+        "modes": [
+          "light",
+          "dark"
+        ],
+        "name": "Asri",
+        "preview": "preview.webp",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/mustakshif/Asri",
+        "version": "3.7.16"
+      },
+      "packageZipAssetId": 548918515,
+      "packageZipSha256": "c39c4ebc2008ae515240a8b49f318545def74ebdc8812f717a36f920541321a0",
+      "repoRef": "v3.7.16",
+      "size": 294245,
+      "stars": 130,
+      "updated": "2026-09-07T14:31:27Z",
+      "url": "mustakshif/Asri@c39c4eb"
+    },
+    {
       "installSize": 587651,
       "openIssues": 0,
       "package": {
@@ -97,52 +143,6 @@
       "stars": 0,
       "updated": "2026-09-07T06:30:38Z",
       "url": "fyuanace/cursorart@f169f6e"
-    },
-    {
-      "installSize": 708119,
-      "openIssues": 2,
-      "package": {
-        "author": "mustakshif",
-        "description": {
-          "default": "Crafting a space where visual distractions disappear and your thinking takes center stage - immersive, focused, and intuitively guided.",
-          "zh_CN": "极富现代感的主题，以隐形设计构筑沉浸空间，为你带来专注、优雅、直觉驱动的笔记体验。"
-        },
-        "displayName": {
-          "default": "Asri"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://d7y10jvubi.feishu.cn/docx/R9AOd6OXSo9JThx2AH6cUo4tntf"
-          ]
-        },
-        "icon": "",
-        "keywords": [
-          "Asri"
-        ],
-        "minAppVersion": "3.7.0",
-        "modes": [
-          "light",
-          "dark"
-        ],
-        "name": "Asri",
-        "preview": "",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/mustakshif/Asri",
-        "version": "3.7.15"
-      },
-      "packageZipAssetId": 548251726,
-      "packageZipSha256": "f553f8e5e18e497c5959529200ea0049ba5607ddbbba26aeb6cdce9307d0a055",
-      "repoRef": "v3.7.15",
-      "size": 294224,
-      "stars": 130,
-      "updated": "2026-09-07T05:52:04Z",
-      "url": "mustakshif/Asri@f553f8e"
     },
     {
       "installSize": 439249,
