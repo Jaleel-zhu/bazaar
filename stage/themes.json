@@ -1,6 +1,54 @@
 {
   "repos": [
     {
+      "installSize": 570962,
+      "openIssues": 0,
+      "package": {
+        "author": "fyuan",
+        "description": {
+          "default": "Cursor/Notion-inspired minimal overlay on daylight and midnight. Calmer layout, less chrome.",
+          "zh-CN": "主打极简风，参考 Cursor 与 Notion 做了布局与交互优化，视觉更干净、更舒服。亮色叠 daylight，暗色叠 midnight。"
+        },
+        "displayName": {
+          "default": "cursor极简"
+        },
+        "funding": {
+          "custom": [
+            "https://siyuan.ysoft.site"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "cursor",
+          "notion",
+          "minimal",
+          "极简",
+          "daylight",
+          "midnight"
+        ],
+        "minAppVersion": "3.1.0",
+        "modes": [
+          "light",
+          "dark"
+        ],
+        "name": "cursorart",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/fyuanace/cursorart",
+        "version": "2.0.3"
+      },
+      "packageZipAssetId": 548199548,
+      "packageZipSha256": "3a88c37e36f0a308f153c0f2a190904d2b00051b06bc42399d8da2e8390618f2",
+      "repoRef": "v2.0.3",
+      "size": 511772,
+      "stars": 0,
+      "updated": "2026-09-07T06:16:08Z",
+      "url": "fyuanace/cursorart@3a88c37"
+    },
+    {
       "installSize": 439249,
       "openIssues": 4,
       "package": {
