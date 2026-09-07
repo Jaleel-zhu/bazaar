@@ -1,6 +1,57 @@
 {
   "repos": [
     {
+      "installSize": 1759679,
+      "openIssues": 0,
+      "package": {
+        "author": "whale🐋",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Professional annotation plugin — select text, add comments, manage in sidebar, with slide-to-annotate, tagging, cross-document navigation, and AI-powered explanation.",
+          "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留、万字文档秒批、可离线使用。在线AI 解释（思源原生 AI 驱动）。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "鲸鱼快速批注",
+          "en": "Whale Quick Comment"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "comment",
+          "annotation",
+          "批注",
+          "标注",
+          "笔记",
+          "AI",
+          "AI批注",
+          "人工智能",
+          "鲸鱼",
+          "快速批注"
+        ],
+        "minAppVersion": "3.8.2",
+        "name": "siyuan-comment",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "en": "README_en_US.md"
+        },
+        "url": "https://github.com/HaoCeans/siyuan-comment",
+        "version": "2.8.2"
+      },
+      "packageZipAssetId": 549169721,
+      "packageZipSha256": "2551e0229c4fcb1ec751b4a8add0f3cfdd3ce00982279124a0428ac74d76c0cb",
+      "repoRef": "v2.8.2",
+      "size": 1063831,
+      "stars": 6,
+      "updated": "2026-09-07T17:50:31Z",
+      "url": "HaoCeans/siyuan-comment@2551e02"
+    },
+    {
       "installSize": 2611070,
       "openIssues": 0,
       "package": {
@@ -1132,57 +1183,6 @@
       "stars": 1,
       "updated": "2026-09-05T18:20:58Z",
       "url": "CongSec/siyuan-plugin-meiday@0549d36"
-    },
-    {
-      "installSize": 1758837,
-      "openIssues": 0,
-      "package": {
-        "author": "whale🐋",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Professional annotation plugin — select text, add comments, manage in sidebar, with slide-to-annotate, tagging, cross-document navigation, and AI-powered explanation.",
-          "zh-CN": "专业批注插件：绝对安全、零污染、数据永久原始保留、万字文档秒批、可离线使用。在线AI 解释（思源原生 AI 驱动）。选中文字添加批注，侧边栏管理，支持滑动快速批注、标签分类、跨文档跳转。"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "鲸鱼快速批注",
-          "en": "Whale Quick Comment"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "comment",
-          "annotation",
-          "批注",
-          "标注",
-          "笔记",
-          "AI",
-          "AI批注",
-          "人工智能",
-          "鲸鱼",
-          "快速批注"
-        ],
-        "minAppVersion": "3.8.2",
-        "name": "siyuan-comment",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "en": "README_en_US.md"
-        },
-        "url": "https://github.com/HaoCeans/siyuan-comment",
-        "version": "2.8.1"
-      },
-      "packageZipAssetId": 545998335,
-      "packageZipSha256": "87762ee415bd224a605f8178c9ecb1e7af9a7c973cabe23823aba880b4eb1fca",
-      "repoRef": "v2.8.1",
-      "size": 1063520,
-      "stars": 6,
-      "updated": "2026-09-05T15:57:21Z",
-      "url": "HaoCeans/siyuan-comment@87762ee"
     },
     {
       "installSize": 203475,
