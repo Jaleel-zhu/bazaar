@@ -1,7 +1,7 @@
 {
   "repos": [
     {
-      "installSize": 3435397,
+      "installSize": 2983326,
       "openIssues": 0,
       "package": {
         "author": "fyuan",
@@ -41,15 +41,161 @@
           "zh-CN": "README_zh_CN.md"
         },
         "url": "https://github.com/fyuanace/cursorart-tools",
-        "version": "1.2.8"
+        "version": "1.2.9"
       },
-      "packageZipAssetId": 550068727,
-      "packageZipSha256": "ea6cb07662d2a4daff7169fa83f619bef4fb9bef718c7e78776dfdc57dab85e1",
-      "repoRef": "v1.2.8",
-      "size": 2907295,
+      "packageZipAssetId": 550479238,
+      "packageZipSha256": "9412ffe5b06ceeb9a45de16d9b95f05b87cf629f48a08a03d3007b55933d0ce8",
+      "repoRef": "v1.2.9",
+      "size": 2454455,
       "stars": 0,
-      "updated": "2026-09-08T08:35:19Z",
-      "url": "fyuanace/cursorart-tools@ea6cb07"
+      "updated": "2026-09-08T12:42:32Z",
+      "url": "fyuanace/cursorart-tools@9412ffe"
+    },
+    {
+      "installSize": 8929502,
+      "openIssues": 0,
+      "package": {
+        "author": "fu1fan",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Manage native-database paper libraries, import Zotero/PDF metadata, export citations, and translate papers with pdf2zh.",
+          "zh-CN": "使用思源原生数据库管理论文文献库，接收 Zotero/PDF 元数据，导出引用并通过 pdf2zh 翻译论文。"
+        },
+        "displayName": {
+          "default": "Paper Manager",
+          "zh-CN": "论文管理"
+        },
+        "frontends": [
+          "desktop",
+          "desktop-window"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "siyuan-plugin",
+          "zotero",
+          "paper",
+          "PDF",
+          "文献",
+          "翻译",
+          "database",
+          "citation",
+          "BibTeX",
+          "Typst",
+          "数据库",
+          "引用"
+        ],
+        "minAppVersion": "3.8.1",
+        "name": "siyuan-paper-manager",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/fu1fan/siyuan-paper-manager",
+        "version": "0.4.4"
+      },
+      "packageZipAssetId": 550376890,
+      "packageZipSha256": "e17d3aa8d6fb2315478010836123037fb59883c0c59bd688e75a61a3cea40818",
+      "repoRef": "v0.4.4",
+      "size": 3673156,
+      "stars": 1,
+      "updated": "2026-09-08T11:33:25Z",
+      "url": "fu1fan/siyuan-paper-manager@e17d3aa"
+    },
+    {
+      "installSize": 885679,
+      "openIssues": 4,
+      "package": {
+        "author": "Han-Orz",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Smooth cursor + typewriter mode + ripple focus for distraction-free writing",
+          "zh-CN": "顺滑光标 + 打字机模式 + 涟漪聚焦，让写作更专注"
+        },
+        "displayName": {
+          "default": "zenType",
+          "zh-CN": "焦点写作"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "minAppVersion": "3.0.12",
+        "name": "zenType",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README_zh-CN.md"
+        },
+        "url": "https://github.com/Han-Orz/zenType",
+        "version": "2.8.1"
+      },
+      "packageZipAssetId": 550165719,
+      "packageZipSha256": "1e1c3fd9c3438e1e92e22b42c01001b71f0f753035c57d3ee4720532e189f2a9",
+      "repoRef": "v2.8.1",
+      "size": 278947,
+      "stars": 5,
+      "updated": "2026-09-08T08:46:12Z",
+      "url": "Han-Orz/zenType@1e1c3fd"
+    },
+    {
+      "installSize": 4001638,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
+          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
+        },
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "番茄钟",
+          "番茄",
+          "Pomodoro",
+          "闪卡",
+          "Flashcard",
+          "复习",
+          "Review",
+          "反链",
+          "Backlink",
+          "同步块",
+          "批注",
+          "思维导图",
+          "Mindmap",
+          "AI",
+          "问答",
+          "文档合并"
+        ],
+        "minAppVersion": "3.0.3",
+        "name": "sy-tomato-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "5.7.4"
+      },
+      "packageZipAssetId": 550155517,
+      "packageZipSha256": "f616e0a865cb51774f76a0d70942bef7c4b77928334d85c9106d49134f101611",
+      "repoRef": "v5.7.4",
+      "size": 1230108,
+      "stars": 50,
+      "updated": "2026-09-08T08:38:14Z",
+      "url": "IAliceBobI/sy-tomato-plugin@f616e0a"
     },
     {
       "installSize": 2635146,
@@ -351,62 +497,6 @@
       "stars": 26,
       "updated": "2026-09-08T07:38:19Z",
       "url": "IAliceBobI/sy-progressive-plugin@282cbb9"
-    },
-    {
-      "installSize": 4001195,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
-          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
-        },
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "番茄钟",
-          "番茄",
-          "Pomodoro",
-          "闪卡",
-          "Flashcard",
-          "复习",
-          "Review",
-          "反链",
-          "Backlink",
-          "同步块",
-          "批注",
-          "思维导图",
-          "Mindmap",
-          "AI",
-          "问答",
-          "文档合并"
-        ],
-        "minAppVersion": "3.0.3",
-        "name": "sy-tomato-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "5.7.3"
-      },
-      "packageZipAssetId": 550072177,
-      "packageZipSha256": "c551a872aef78acb6918312e93da6ebe9f187edbf0042f8f55c4ecc301812b42",
-      "repoRef": "v5.7.3",
-      "size": 1229937,
-      "stars": 50,
-      "updated": "2026-09-08T07:37:25Z",
-      "url": "IAliceBobI/sy-tomato-plugin@c551a87"
     },
     {
       "installSize": 7292561,
@@ -1213,58 +1303,6 @@
       "stars": 6,
       "updated": "2026-09-07T14:47:50Z",
       "url": "DilyarEziz/siyuan-plugin-asset-management@1c50fe9"
-    },
-    {
-      "installSize": 2904001,
-      "openIssues": 0,
-      "package": {
-        "author": "fu1fan",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Manage native-database paper libraries, import Zotero/PDF metadata, export citations, and translate papers with pdf2zh.",
-          "zh-CN": "使用思源原生数据库管理论文文献库，接收 Zotero/PDF 元数据，导出引用并通过 pdf2zh 翻译论文。"
-        },
-        "displayName": {
-          "default": "Paper Manager",
-          "zh-CN": "论文管理"
-        },
-        "frontends": [
-          "desktop",
-          "desktop-window"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "siyuan-plugin",
-          "zotero",
-          "paper",
-          "PDF",
-          "文献",
-          "翻译",
-          "database",
-          "citation",
-          "BibTeX",
-          "Typst",
-          "数据库",
-          "引用"
-        ],
-        "minAppVersion": "3.8.1",
-        "name": "siyuan-paper-manager",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/fu1fan/siyuan-paper-manager",
-        "version": "0.4.2"
-      },
-      "packageZipAssetId": 548873955,
-      "packageZipSha256": "397ba7edb2607875462a7c464fab95d37f9f6efb88c7150cae654e7731900b46",
-      "repoRef": "v0.4.2",
-      "size": 840943,
-      "stars": 1,
-      "updated": "2026-09-07T13:59:37Z",
-      "url": "fu1fan/siyuan-paper-manager@397ba7e"
     },
     {
       "installSize": 301208,
@@ -3100,42 +3138,6 @@
       "stars": 0,
       "updated": "2026-09-01T03:58:54Z",
       "url": "YanyingWei1997/siyuan-plugin-ying-kami-markdown@1041660"
-    },
-    {
-      "installSize": 560536,
-      "openIssues": 4,
-      "package": {
-        "author": "Han-Orz",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Smooth cursor + typewriter mode + ripple focus for distraction-free writing",
-          "zh-CN": "顺滑光标 + 打字机模式 + 涟漪聚焦，让写作更专注"
-        },
-        "displayName": {
-          "default": "zenType",
-          "zh-CN": "焦点写作"
-        },
-        "frontends": [
-          "all"
-        ],
-        "minAppVersion": "3.0.12",
-        "name": "zenType",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README_zh-CN.md"
-        },
-        "url": "https://github.com/Han-Orz/zenType",
-        "version": "2.7.0"
-      },
-      "packageZipAssetId": 538641627,
-      "packageZipSha256": "a08ff2bf6824931662e630b8d31e3079e93345b9dc62a88760769fed5d9130ba",
-      "repoRef": "v2.7.0",
-      "size": 201900,
-      "stars": 5,
-      "updated": "2026-08-31T23:12:43Z",
-      "url": "Han-Orz/zenType@a08ff2b"
     },
     {
       "installSize": 85500,
