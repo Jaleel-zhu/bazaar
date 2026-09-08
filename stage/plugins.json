@@ -1,6 +1,60 @@
 {
   "repos": [
     {
+      "installSize": 339232,
+      "openIssues": 0,
+      "package": {
+        "author": "fangtype",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "ios",
+          "android",
+          "docker"
+        ],
+        "description": {
+          "default": "Sync WeRead books, highlights and notes into SiYuan incrementally, never overwriting your edits",
+          "zh-CN": "同步微信读书的书籍、划线与想法到思源笔记，增量更新且不覆盖你的编辑"
+        },
+        "displayName": {
+          "default": "WeRead Sync",
+          "zh-CN": "微信读书同步"
+        },
+        "frontends": [
+          "desktop",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "微信读书",
+          "weread",
+          "笔记同步",
+          "划线",
+          "阅读"
+        ],
+        "minAppVersion": "3.0.0",
+        "name": "siyuan-plugin-weread-sync",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README_en_US.md",
+          "zh-CN": "README.md"
+        },
+        "url": "https://github.com/leofang230316-prog/siyuan-plugin-weread-sync",
+        "version": "1.2.3"
+      },
+      "packageZipAssetId": 550694769,
+      "packageZipSha256": "622187e361e456334a85dec41be9216d898ded86d580390382b3611e6e9ce8ed",
+      "repoRef": "v1.2.3",
+      "size": 162258,
+      "stars": 0,
+      "updated": "2026-09-08T14:55:00Z",
+      "url": "leofang230316-prog/siyuan-plugin-weread-sync@622187e"
+    },
+    {
       "installSize": 2983326,
       "openIssues": 0,
       "package": {
