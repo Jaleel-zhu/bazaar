@@ -1,6 +1,56 @@
 {
   "repos": [
     {
+      "installSize": 587211,
+      "openIssues": 0,
+      "package": {
+        "author": "QYL",
+        "description": {
+          "default": "An Apple-inspired, meticulously crafted, production-grade theme",
+          "zh-CN": "以 Apple 设计语言为灵感，精心打磨的毕业级主题",
+          "zh-TW": "以 Apple 設計語言為靈感，精心打磨的畢業級主題"
+        },
+        "displayName": {
+          "default": "Neo"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "Apple",
+          "macOS",
+          "Cupertino"
+        ],
+        "minAppVersion": "3.8.0",
+        "modes": [
+          "light",
+          "dark"
+        ],
+        "name": "Neo",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh-TW": "README.zh-TW.md"
+        },
+        "url": "https://github.com/QYLexpired/Neo",
+        "version": "1.6.1"
+      },
+      "packageZipAssetId": 550829758,
+      "packageZipSha256": "6a49f98876cccba0ac1bb8c734b958836660c4be3610bdf280a3e317b3e050d3",
+      "repoRef": "v1.6.1",
+      "size": 190151,
+      "stars": 32,
+      "updated": "2026-09-08T16:05:10Z",
+      "url": "QYLexpired/Neo@6a49f98"
+    },
+    {
       "installSize": 3003352,
       "openIssues": 0,
       "package": {
@@ -93,56 +143,6 @@
       "stars": 130,
       "updated": "2026-09-07T14:31:27Z",
       "url": "mustakshif/Asri@c39c4eb"
-    },
-    {
-      "installSize": 587651,
-      "openIssues": 0,
-      "package": {
-        "author": "QYL",
-        "description": {
-          "default": "An Apple-inspired, meticulously crafted, production-grade theme",
-          "zh-CN": "以 Apple 设计语言为灵感，精心打磨的毕业级主题",
-          "zh-TW": "以 Apple 設計語言為靈感，精心打磨的畢業級主題"
-        },
-        "displayName": {
-          "default": "Neo"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "Apple",
-          "macOS",
-          "Cupertino"
-        ],
-        "minAppVersion": "3.8.0",
-        "modes": [
-          "light",
-          "dark"
-        ],
-        "name": "Neo",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh-TW": "README.zh-TW.md"
-        },
-        "url": "https://github.com/QYLexpired/Neo",
-        "version": "1.6.0"
-      },
-      "packageZipAssetId": 548599561,
-      "packageZipSha256": "939b5d5f94412445cf93d365f268779d7dd6b28556b46eda45f002d44f0b92c5",
-      "repoRef": "v1.6.0",
-      "size": 190338,
-      "stars": 32,
-      "updated": "2026-09-07T10:20:31Z",
-      "url": "QYLexpired/Neo@939b5d5"
     },
     {
       "installSize": 439249,

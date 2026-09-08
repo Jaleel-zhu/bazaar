@@ -1,6 +1,211 @@
 {
   "repos": [
     {
+      "installSize": 2619032,
+      "openIssues": 0,
+      "package": {
+        "author": "5kyfkr",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A dock Tomato Timer for SiYuan.",
+          "zh_CN": "思源底栏番茄钟：支持时间轴视图/任务提醒/日常事务记录/多端状态同步/移动端/数据库联动/块绑定/历史记录/任务管理器联动/移动端原生通知提醒"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Dock Tomato",
+          "zh_CN": "底栏番茄钟"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://free.picui.cn/free/2026/02/25/699f05ad97ce4.png"
+          ]
+        },
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "tomato",
+          "timer",
+          "pomodoro",
+          "dock"
+        ],
+        "minAppVersion": "3.8.1",
+        "name": "siyuan-plugin-docktomato",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/5kyfkr/siyuan-plugin-docktomato",
+        "version": "2.2.6"
+      },
+      "packageZipAssetId": 550980638,
+      "packageZipSha256": "a4e792a69498afe38a0c0c4c48608a6a3b41bab597c1b0b646eafa40555390c4",
+      "repoRef": "v2.2.6",
+      "size": 615503,
+      "stars": 9,
+      "updated": "2026-09-08T17:41:35Z",
+      "url": "5kyfkr/siyuan-plugin-docktomato@a4e792a"
+    },
+    {
+      "installSize": 15977376,
+      "openIssues": 0,
+      "package": {
+        "author": "5kyfkr",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Aggregate tasks across documents with rule-based filters, grouping/sorting, configurable columns, and a quickbar editor for SiYuan.",
+          "zh_CN": "思源笔记任务管理器：汇总多文档任务，支持AI助手/白板/时间轴/日历/看板/清单/表格视图/四象限分组/悬浮条快速编辑/自定义加权排序。支持与底栏番茄钟联动、移动端原生日程通知"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Task Horizon",
+          "zh_CN": "任务管理器"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://free.picui.cn/free/2026/02/25/699f05ad97ce4.png"
+          ]
+        },
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "task",
+          "manager",
+          "filter"
+        ],
+        "minAppVersion": "3.8.1",
+        "name": "siyuan-plugin-task-horizon",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/5kyfkr/siyuan-plugin-task-horizon",
+        "version": "3.0.0"
+      },
+      "packageZipAssetId": 550958475,
+      "packageZipSha256": "56b7876951ff52103b959a96b2a38ce607cb90c8ef8ade8bab9c608d7dc32b70",
+      "repoRef": "v3.0.0",
+      "size": 3285494,
+      "stars": 37,
+      "updated": "2026-09-08T17:27:05Z",
+      "url": "5kyfkr/siyuan-plugin-task-horizon@56b7876"
+    },
+    {
+      "installSize": 2223358,
+      "openIssues": 0,
+      "package": {
+        "author": "QYL",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A companion plugin for the Neo theme",
+          "zh-CN": "Neo主题的配套插件",
+          "zh-TW": "Neo主題的配套插件"
+        },
+        "displayName": {
+          "default": "Neo+"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "Apple",
+          "macOS",
+          "Cupertino"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "Neo-Plus",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh-TW": "README.zh-TW.md"
+        },
+        "url": "https://github.com/QYLexpired/Neo-Plus",
+        "version": "1.6.1"
+      },
+      "packageZipAssetId": 550832131,
+      "packageZipSha256": "3cb008da13d34c028dc8ca143f184ce8a335b853dbda51cf7c41b75c20578d30",
+      "repoRef": "v1.6.1",
+      "size": 1322306,
+      "stars": 13,
+      "updated": "2026-09-08T16:06:34Z",
+      "url": "QYLexpired/Neo-Plus@3cb008d"
+    },
+    {
+      "installSize": 8945956,
+      "openIssues": 0,
+      "package": {
+        "author": "fu1fan",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Manage native-database paper libraries, import Zotero/PDF metadata, export citations, and translate papers with pdf2zh.",
+          "zh-CN": "使用思源原生数据库管理论文文献库，接收 Zotero/PDF 元数据，导出引用并通过 pdf2zh 翻译论文。"
+        },
+        "displayName": {
+          "default": "Paper Manager",
+          "zh-CN": "论文管理"
+        },
+        "frontends": [
+          "desktop",
+          "desktop-window"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "siyuan-plugin",
+          "zotero",
+          "paper",
+          "PDF",
+          "文献",
+          "翻译",
+          "database",
+          "citation",
+          "BibTeX",
+          "Typst",
+          "数据库",
+          "引用"
+        ],
+        "minAppVersion": "3.8.1",
+        "name": "siyuan-paper-manager",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/fu1fan/siyuan-paper-manager",
+        "version": "0.4.5"
+      },
+      "packageZipAssetId": 550737291,
+      "packageZipSha256": "2d07eebf0e50e7c04ce7a6660f6ddaca9266e19485de3e20e547506b9316ddd9",
+      "repoRef": "v0.4.5",
+      "size": 3679226,
+      "stars": 1,
+      "updated": "2026-09-08T15:11:39Z",
+      "url": "fu1fan/siyuan-paper-manager@2d07eeb"
+    },
+    {
       "installSize": 339232,
       "openIssues": 0,
       "package": {
@@ -55,6 +260,189 @@
       "url": "leofang230316-prog/siyuan-plugin-weread-sync@622187e"
     },
     {
+      "installSize": 689538,
+      "openIssues": 4,
+      "package": {
+        "author": "Quincy Zou",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "文档关键内容展示和提取，反链文档快捷整理、文档内容快捷编辑等20+辅助功能。让关键信息一目了然，让笔记整理一键完成。",
+          "en_US": "SiYuan Notes plugin, which provides functions such as extracting key content of documents, quickly organizing backlinked documents, and quickly editing document content."
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "文档助手 / Doc Assist",
+          "en_US": "Doc Assist",
+          "zh_CN": "文档助手"
+        },
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "desktop-window"
+        ],
+        "icon": "icon.png",
+        "minAppVersion": "3.5.7",
+        "name": "siyuan-doc-assist",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/famotime/siyuan-doc-assist",
+        "version": "1.6.5"
+      },
+      "packageZipAssetId": 550687222,
+      "packageZipSha256": "388d1757ca7ed07dc3c1b6958bd1503c35f9d99f57ff8da3947b012e0e7a283c",
+      "repoRef": "v1.6.5",
+      "size": 244018,
+      "stars": 4,
+      "updated": "2026-09-08T14:44:52Z",
+      "url": "famotime/siyuan-doc-assist@388d175"
+    },
+    {
+      "installSize": 707704,
+      "openIssues": 0,
+      "package": {
+        "author": "gradypark86",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Quickly create a new or go to diary or weekly notes on the calendar panel, with support for periodic note templates",
+          "zh_CN": "在日历面板上快速新建或转到日记与周记，支持周期笔记模板"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Siyuan Calendar Panel",
+          "zh_CN": "思源日历面板"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "calendar",
+          "日历",
+          "日记",
+          "daily",
+          "weekly",
+          "周记"
+        ],
+        "minAppVersion": "2.13.0",
+        "name": "siyuan-plugin-calendar",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README_en_US.md",
+          "zh_CN": "README.md"
+        },
+        "url": "https://github.com/gradypark86/siyuan-plugin-calendar",
+        "version": "0.5.1"
+      },
+      "packageZipAssetId": 550716951,
+      "packageZipSha256": "de0b34f34823ae25806ff84e01edac895fc1e25cce0bff31a31dd506f3a018a5",
+      "repoRef": "v0.5.1",
+      "size": 304799,
+      "stars": 2,
+      "updated": "2026-09-08T14:40:03Z",
+      "url": "gradypark86/siyuan-plugin-calendar@de0b34f"
+    },
+    {
+      "installSize": 4027702,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
+          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
+        },
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "番茄钟",
+          "番茄",
+          "Pomodoro",
+          "闪卡",
+          "Flashcard",
+          "复习",
+          "Review",
+          "反链",
+          "Backlink",
+          "同步块",
+          "批注",
+          "思维导图",
+          "Mindmap",
+          "AI",
+          "问答",
+          "文档合并"
+        ],
+        "minAppVersion": "3.0.3",
+        "name": "sy-tomato-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "5.7.5"
+      },
+      "packageZipAssetId": 550661230,
+      "packageZipSha256": "178043418d990df14ea6b81b3f78c64dc12d61a5e4873add56b53a7c4ff8e133",
+      "repoRef": "v5.7.5",
+      "size": 1236963,
+      "stars": 50,
+      "updated": "2026-09-08T14:29:31Z",
+      "url": "IAliceBobI/sy-tomato-plugin@1780434"
+    },
+    {
+      "installSize": 567889,
+      "openIssues": 5,
+      "package": {
+        "author": "OpaqueGlass",
+        "description": {
+          "default": "Insert doc-links under current doc title",
+          "zh-CN": "在标题下方显示上下层级文档链接",
+          "zh_CN": "在标题下方显示上下层级文档链接"
+        },
+        "displayName": {
+          "default": "HierarchyNavigate",
+          "zh-CN": "文档层级导航",
+          "zh_CN": "文档层级导航"
+        },
+        "funding": {
+          "custom": [
+            "https://wj.qq.com/s2/12395364/b69f/"
+          ]
+        },
+        "icon": "icon.png",
+        "name": "syplugin-hierarchyNavigate",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README_zh_CN.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/OpaqueGlass/syplugin-hierarchyNavigate",
+        "version": "1.11.5"
+      },
+      "packageZipAssetId": 550631678,
+      "packageZipSha256": "163396e8e71b414855e06929035f2c521164c5234f44f6d0b8742af630e045e8",
+      "repoRef": "v1.11.5",
+      "size": 228766,
+      "stars": 22,
+      "updated": "2026-09-08T14:10:53Z",
+      "url": "OpaqueGlass/syplugin-hierarchyNavigate@163396e"
+    },
+    {
       "installSize": 2983326,
       "openIssues": 0,
       "package": {
@@ -106,58 +494,6 @@
       "url": "fyuanace/cursorart-tools@9412ffe"
     },
     {
-      "installSize": 8929502,
-      "openIssues": 0,
-      "package": {
-        "author": "fu1fan",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Manage native-database paper libraries, import Zotero/PDF metadata, export citations, and translate papers with pdf2zh.",
-          "zh-CN": "使用思源原生数据库管理论文文献库，接收 Zotero/PDF 元数据，导出引用并通过 pdf2zh 翻译论文。"
-        },
-        "displayName": {
-          "default": "Paper Manager",
-          "zh-CN": "论文管理"
-        },
-        "frontends": [
-          "desktop",
-          "desktop-window"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "siyuan-plugin",
-          "zotero",
-          "paper",
-          "PDF",
-          "文献",
-          "翻译",
-          "database",
-          "citation",
-          "BibTeX",
-          "Typst",
-          "数据库",
-          "引用"
-        ],
-        "minAppVersion": "3.8.1",
-        "name": "siyuan-paper-manager",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/fu1fan/siyuan-paper-manager",
-        "version": "0.4.4"
-      },
-      "packageZipAssetId": 550376890,
-      "packageZipSha256": "e17d3aa8d6fb2315478010836123037fb59883c0c59bd688e75a61a3cea40818",
-      "repoRef": "v0.4.4",
-      "size": 3673156,
-      "stars": 1,
-      "updated": "2026-09-08T11:33:25Z",
-      "url": "fu1fan/siyuan-paper-manager@e17d3aa"
-    },
-    {
       "installSize": 885679,
       "openIssues": 4,
       "package": {
@@ -194,62 +530,6 @@
       "stars": 5,
       "updated": "2026-09-08T08:46:12Z",
       "url": "Han-Orz/zenType@1e1c3fd"
-    },
-    {
-      "installSize": 4001638,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
-          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
-        },
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "番茄钟",
-          "番茄",
-          "Pomodoro",
-          "闪卡",
-          "Flashcard",
-          "复习",
-          "Review",
-          "反链",
-          "Backlink",
-          "同步块",
-          "批注",
-          "思维导图",
-          "Mindmap",
-          "AI",
-          "问答",
-          "文档合并"
-        ],
-        "minAppVersion": "3.0.3",
-        "name": "sy-tomato-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "5.7.4"
-      },
-      "packageZipAssetId": 550155517,
-      "packageZipSha256": "f616e0a865cb51774f76a0d70942bef7c4b77928334d85c9106d49134f101611",
-      "repoRef": "v5.7.4",
-      "size": 1230108,
-      "stars": 50,
-      "updated": "2026-09-08T08:38:14Z",
-      "url": "IAliceBobI/sy-tomato-plugin@f616e0a"
     },
     {
       "installSize": 2635146,
@@ -602,53 +882,6 @@
       "url": "LongDarkroom/siyuan-plugin-reword@a3f21f5"
     },
     {
-      "installSize": 704625,
-      "openIssues": 0,
-      "package": {
-        "author": "gradypark86",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Quickly create a new or go to diary or weekly notes on the calendar panel, with support for periodic note templates",
-          "zh_CN": "在日历面板上快速新建或转到日记与周记，支持周期笔记模板"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Siyuan Calendar Panel",
-          "zh_CN": "思源日历面板"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "calendar",
-          "日历",
-          "日记",
-          "daily",
-          "weekly",
-          "周记"
-        ],
-        "minAppVersion": "2.13.0",
-        "name": "siyuan-plugin-calendar",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README_en_US.md",
-          "zh_CN": "README.md"
-        },
-        "url": "https://github.com/gradypark86/siyuan-plugin-calendar",
-        "version": "0.5.0"
-      },
-      "packageZipAssetId": 549973505,
-      "packageZipSha256": "b169075a117b19ff80decfc24ea5d8d05353bf38aada2791741eb142b4c06fee",
-      "repoRef": "v0.5.0",
-      "size": 303771,
-      "stars": 2,
-      "updated": "2026-09-08T06:08:40Z",
-      "url": "gradypark86/siyuan-plugin-calendar@b169075"
-    },
-    {
       "installSize": 197749,
       "openIssues": 0,
       "package": {
@@ -866,57 +1099,6 @@
       "url": "zt8989/siyuan-drawio-plugin@ca493cc"
     },
     {
-      "installSize": 15964748,
-      "openIssues": 0,
-      "package": {
-        "author": "5kyfkr",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Aggregate tasks across documents with rule-based filters, grouping/sorting, configurable columns, and a quickbar editor for SiYuan.",
-          "zh_CN": "思源笔记任务管理器：汇总多文档任务，支持AI助手/白板/时间轴/日历/看板/清单/表格视图/四象限分组/悬浮条快速编辑/自定义加权排序。支持与底栏番茄钟联动、移动端原生日程通知"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Task Horizon",
-          "zh_CN": "任务管理器"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://free.picui.cn/free/2026/02/25/699f05ad97ce4.png"
-          ]
-        },
-        "icon": "icon.png",
-        "kernels": [
-          "all"
-        ],
-        "keywords": [
-          "task",
-          "manager",
-          "filter"
-        ],
-        "minAppVersion": "3.8.1",
-        "name": "siyuan-plugin-task-horizon",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/5kyfkr/siyuan-plugin-task-horizon",
-        "version": "2.9.9"
-      },
-      "packageZipAssetId": 549584841,
-      "packageZipSha256": "bc23a00d974db460ba4420e275eefb244d4f141ed0b1cdf1765bd979869c3368",
-      "repoRef": "v2.9.9",
-      "size": 3282810,
-      "stars": 37,
-      "updated": "2026-09-08T00:22:24Z",
-      "url": "5kyfkr/siyuan-plugin-task-horizon@bc23a00"
-    },
-    {
       "installSize": 10249074,
       "openIssues": 2,
       "package": {
@@ -1065,59 +1247,6 @@
       "stars": 6,
       "updated": "2026-09-07T17:50:31Z",
       "url": "HaoCeans/siyuan-comment@2551e02"
-    },
-    {
-      "installSize": 2611070,
-      "openIssues": 0,
-      "package": {
-        "author": "5kyfkr",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A dock Tomato Timer for SiYuan.",
-          "zh_CN": "思源底栏番茄钟：支持时间轴视图/任务提醒/日常事务记录/多端状态同步/移动端/数据库联动/块绑定/历史记录/任务管理器联动/移动端原生通知提醒"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Dock Tomato",
-          "zh_CN": "底栏番茄钟"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://free.picui.cn/free/2026/02/25/699f05ad97ce4.png"
-          ]
-        },
-        "icon": "icon.png",
-        "kernels": [
-          "all"
-        ],
-        "keywords": [
-          "tomato",
-          "timer",
-          "pomodoro",
-          "dock"
-        ],
-        "minAppVersion": "3.8.1",
-        "name": "siyuan-plugin-docktomato",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/5kyfkr/siyuan-plugin-docktomato",
-        "version": "2.2.5"
-      },
-      "packageZipAssetId": 549108948,
-      "packageZipSha256": "a027f28599d15feb4855ae12d28625dbde0430195f8a380ba53bd218c742bf6f",
-      "repoRef": "v2.2.5",
-      "size": 613363,
-      "stars": 9,
-      "updated": "2026-09-07T16:59:26Z",
-      "url": "5kyfkr/siyuan-plugin-docktomato@a027f28"
     },
     {
       "installSize": 14908787,
@@ -1486,55 +1615,6 @@
       "stars": 29,
       "updated": "2026-09-07T11:23:11Z",
       "url": "Glaube-TY/siyuan-douban@9901016"
-    },
-    {
-      "installSize": 2203876,
-      "openIssues": 0,
-      "package": {
-        "author": "QYL",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A companion plugin for the Neo theme",
-          "zh-CN": "Neo主题的配套插件",
-          "zh-TW": "Neo主題的配套插件"
-        },
-        "displayName": {
-          "default": "Neo+"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://icnmjy02sv9g.feishu.cn/wiki/FekNwrtB7ia1WckYelRckwzZnig?from=from_copylink"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "Apple",
-          "macOS",
-          "Cupertino"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "Neo-Plus",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh-TW": "README.zh-TW.md"
-        },
-        "url": "https://github.com/QYLexpired/Neo-Plus",
-        "version": "1.6.0"
-      },
-      "packageZipAssetId": 548597510,
-      "packageZipSha256": "ac04c41590bd404ddae7c2523b28bb05b0e4d41af307871c57af7aa9c09b7adf",
-      "repoRef": "v1.6.0",
-      "size": 1317656,
-      "stars": 13,
-      "updated": "2026-09-07T10:19:02Z",
-      "url": "QYLexpired/Neo-Plus@ac04c41"
     },
     {
       "installSize": 2214439,
@@ -2144,45 +2224,6 @@
       "stars": 0,
       "updated": "2026-09-05T14:20:56Z",
       "url": "BryceWG/siyuan-upload-pages@684b73d"
-    },
-    {
-      "installSize": 566125,
-      "openIssues": 5,
-      "package": {
-        "author": "OpaqueGlass",
-        "description": {
-          "default": "Insert doc-links under current doc title",
-          "zh-CN": "在标题下方显示上下层级文档链接",
-          "zh_CN": "在标题下方显示上下层级文档链接"
-        },
-        "displayName": {
-          "default": "HierarchyNavigate",
-          "zh-CN": "文档层级导航",
-          "zh_CN": "文档层级导航"
-        },
-        "funding": {
-          "custom": [
-            "https://wj.qq.com/s2/12395364/b69f/"
-          ]
-        },
-        "icon": "icon.png",
-        "name": "syplugin-hierarchyNavigate",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README_zh_CN.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/OpaqueGlass/syplugin-hierarchyNavigate",
-        "version": "1.11.4"
-      },
-      "packageZipAssetId": 545888556,
-      "packageZipSha256": "f9d2fa497d8f2a9ccace77842cc67d606c8c2fc85b1bc900bb7dac7338a2a2fe",
-      "repoRef": "v1.11.4",
-      "size": 228204,
-      "stars": 22,
-      "updated": "2026-09-05T13:57:39Z",
-      "url": "OpaqueGlass/syplugin-hierarchyNavigate@f9d2fa4"
     },
     {
       "installSize": 188073,
@@ -10300,45 +10341,6 @@
       "stars": 4,
       "updated": "2026-07-03T06:42:56Z",
       "url": "ryzencool/dinox-siyuan-sync@b3c14b6"
-    },
-    {
-      "installSize": 428633,
-      "openIssues": 1,
-      "package": {
-        "author": "Quincy Zou",
-        "backends": [
-          "windows"
-        ],
-        "description": {
-          "default": "文档关键内容展示和提取，反链文档快捷整理、文档内容快捷编辑等20+辅助功能。让关键信息一目了然，让笔记整理一键完成。",
-          "en_US": "SiYuan Notes plugin, which provides functions such as extracting key content of documents, quickly organizing backlinked documents, and quickly editing document content."
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "文档助手 / Doc Assist",
-          "en_US": "Doc Assist",
-          "zh_CN": "文档助手"
-        },
-        "frontends": [
-          "desktop",
-          "browser-desktop",
-          "desktop-window"
-        ],
-        "minAppVersion": "3.5.7",
-        "name": "siyuan-doc-assist",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/famotime/siyuan-doc-assist",
-        "version": "1.6.1"
-      },
-      "packageZipAssetId": 464252539,
-      "packageZipSha256": "f9416a50add3097fa5883cc42e5427742cf159953a216efcc54302d61f7c3c03",
-      "repoRef": "v1.6.1",
-      "size": 173680,
-      "stars": 4,
-      "updated": "2026-07-02T11:31:38Z",
-      "url": "famotime/siyuan-doc-assist@f9416a5"
     },
     {
       "installSize": 19665743,
