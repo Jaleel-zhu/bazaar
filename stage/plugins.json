@@ -1,6 +1,510 @@
 {
   "repos": [
     {
+      "installSize": 3435397,
+      "openIssues": 0,
+      "package": {
+        "author": "fyuan",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Inspired by Cursor and Notion: a clean, modern layout and interaction. Adds CJK-Latin spacing, image optimization, favorites, and other highly requested features. Please use the theme and plugin together.",
+          "zh-CN": "参考 Cursor 和 Notion 优化布局和交互，主打简洁、现代化，提供中英文空格间隔、图片优化、收藏等呼声较高的功能。请务必插件和主题一起使用。"
+        },
+        "displayName": {
+          "default": "cursor极简工具"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://siyuan.ysoft.site"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "cursor",
+          "cursorart",
+          "theme",
+          "极简",
+          "favorites",
+          "slash",
+          "fhelper"
+        ],
+        "minAppVersion": "3.1.27",
+        "name": "cursorart-tools",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/fyuanace/cursorart-tools",
+        "version": "1.2.8"
+      },
+      "packageZipAssetId": 550068727,
+      "packageZipSha256": "ea6cb07662d2a4daff7169fa83f619bef4fb9bef718c7e78776dfdc57dab85e1",
+      "repoRef": "v1.2.8",
+      "size": 2907295,
+      "stars": 0,
+      "updated": "2026-09-08T08:35:19Z",
+      "url": "fyuanace/cursorart-tools@ea6cb07"
+    },
+    {
+      "installSize": 2635146,
+      "openIssues": 1,
+      "package": {
+        "author": "alone-tree",
+        "backends": [
+          "windows",
+          "darwin",
+          "linux"
+        ],
+        "description": {
+          "default": "Lean, fast, and hassle-free SiYuan MCP tool.",
+          "zh-CN": "让 AI Agent 通过 MCP 安全地阅读、搜索和修改你的思源笔记，重点优化长文档、表格、块引用等知识库场景"
+        },
+        "displayName": {
+          "default": "Siyuan Bridge",
+          "zh-CN": "思源桥"
+        },
+        "frontends": [
+          "desktop"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "siyuan",
+          "mcp",
+          "ai",
+          "knowledge-base"
+        ],
+        "minAppVersion": "3.3.0",
+        "name": "siyuan-bridge",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/alone-tree/siyuan-bridge",
+        "version": "1.8.3"
+      },
+      "packageZipAssetId": 550130923,
+      "packageZipSha256": "fcffc9c1779a35057c31cd04f1a66e857950402f827f19b02f723c5723778695",
+      "repoRef": "v1.8.3",
+      "size": 2005376,
+      "stars": 10,
+      "updated": "2026-09-08T08:20:46Z",
+      "url": "alone-tree/siyuan-bridge@fcffc9c"
+    },
+    {
+      "installSize": 2311126,
+      "openIssues": 6,
+      "package": {
+        "author": "frostime",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "en_US": "Personal tools. GPT Chat (API Key) | Toggl | Reference | Md Process | Zotero...",
+          "zh_CN": "个人插件合集. GPT 对话 (API Key) | Toggl | 引用管理 | Md 处理 | Zotero..."
+        },
+        "displayName": {
+          "en_US": "F&#39;s Toolbox",
+          "zh_CN": "F&#39;s 工具箱"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://afdian.com/a/frostime"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "frostime",
+          "toolbox",
+          "misc",
+          "gpt",
+          "chat",
+          "ai",
+          "toggl",
+          "fs",
+          "fmisc"
+        ],
+        "minAppVersion": "3.1.20",
+        "name": "sy-f-misc",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/frostime/sy-f-misc",
+        "version": "7.15.1"
+      },
+      "packageZipAssetId": 550119199,
+      "packageZipSha256": "1f32cdc6fee494566dc6dd5d70948a369f321b6c4ddf3e3931936650c0abb7ed",
+      "repoRef": "v7.15.1",
+      "size": 695038,
+      "stars": 29,
+      "updated": "2026-09-08T08:13:33Z",
+      "url": "frostime/sy-f-misc@1f32cdc"
+    },
+    {
+      "installSize": 443983,
+      "openIssues": 0,
+      "package": {
+        "author": "steve",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Advanced database attribute display plugin with field hiding, date formatting, checkbox beautification, and customizable settings. Supports 99% of blocks!",
+          "zh-CN": "数据库属性显示插件，把思源数据库炼化为超级标签！"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Database Display",
+          "zh-CN": "数据库属性展示"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "database",
+          "display",
+          "attribute",
+          "super-tag",
+          "超级标签"
+        ],
+        "minAppVersion": "3.8.3",
+        "name": "siyuan-database-display",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/loonghfut/siyuan-database-display",
+        "version": "5.2.1"
+      },
+      "packageZipAssetId": 550110734,
+      "packageZipSha256": "fded1ad969fa5da8ff9c8b11b5de1da2f55249f816bbddf0fdda84670aa699d9",
+      "repoRef": "v5.2.1",
+      "size": 190011,
+      "stars": 7,
+      "updated": "2026-09-08T08:07:25Z",
+      "url": "loonghfut/siyuan-database-display@fded1ad"
+    },
+    {
+      "installSize": 911868,
+      "openIssues": 0,
+      "package": {
+        "author": "houm01",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A quiet collection of focused tools for SiYuan Note.",
+          "zh-CN": "一组安静、克制、专注的思源笔记实用工具。"
+        },
+        "displayName": {
+          "default": "Stillmark Workbench",
+          "zh-CN": "静痕工作台"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "静痕",
+          "工作台",
+          "块样式",
+          "stillmark",
+          "workbench",
+          "block style"
+        ],
+        "minAppVersion": "3.7.0",
+        "name": "stillmark-workbench",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/houm01/stillmark-workbench",
+        "version": "0.4.11"
+      },
+      "packageZipAssetId": 550079860,
+      "packageZipSha256": "083acba08e6ca5d913415c996a192f63c1ace8e8c47bf1d0f2693d544958d55b",
+      "repoRef": "v0.4.11",
+      "size": 325823,
+      "stars": 1,
+      "updated": "2026-09-08T07:44:09Z",
+      "url": "houm01/stillmark-workbench@083acba"
+    },
+    {
+      "installSize": 2553717,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "✍️ Read-then-rewrite practice on any document: mark &amp; tint, extract &amp; rewrite, compare with the original",
+          "zh_CN": "任意文档的读后仿写练习：批注变色、抽取仿写、对比原文"
+        },
+        "displayName": {
+          "default": "Recite Practice",
+          "zh_CN": "仿写练习"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "仿写",
+          "背诵",
+          "默写",
+          "批注",
+          "判卷",
+          "练习",
+          "写作",
+          "联想",
+          "Recite",
+          "Dictation",
+          "Writing",
+          "AI"
+        ],
+        "minAppVersion": "2.12.6",
+        "name": "sy-recite-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-recite-plugin",
+        "version": "1.2.8"
+      },
+      "packageZipAssetId": 550074397,
+      "packageZipSha256": "01fa321fca35dc14dae9ee5e61cdbf622336d323548755b477cdd19ec5c07594",
+      "repoRef": "v1.2.8",
+      "size": 707334,
+      "stars": 2,
+      "updated": "2026-09-08T07:39:27Z",
+      "url": "IAliceBobI/sy-recite-plugin@01fa321"
+    },
+    {
+      "installSize": 2585978,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · Finally finish what you read — and what you write: progressive reading digests long-form input day by day, progressive writing queues your material into finished drafts — excerpts, slicing, cloze, flashcards, writing books &amp; compile-to-draft. A full loop from reading to writing.",
+          "zh_CN": "🔓 已开源 · 让长文读得完，让作品写得完：渐进阅读消化输入，渐进写作排队产出——摘抄、分片、挖空、闪卡、写作书素材入槽、汇编成稿，从阅读到写作的完整闭环"
+        },
+        "displayName": {
+          "default": "Progressive Learning",
+          "zh_CN": "渐进学习"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "渐进学习",
+          "渐进阅读",
+          "Progressive Reading",
+          "挖空",
+          "Cloze",
+          "闪卡",
+          "Flashcard",
+          "摘抄",
+          "断句",
+          "Sentence Split",
+          "拼音",
+          "Pinyin",
+          "Daily Card",
+          "渐进写作",
+          "Progressive Writing"
+        ],
+        "minAppVersion": "2.12.6",
+        "name": "sy-progressive-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
+        "version": "3.5.0"
+      },
+      "packageZipAssetId": 550073058,
+      "packageZipSha256": "282cbb97a65e6d3a0f950a3d85cdbe720dc532daa2b1eb1eb9a4acab8e8a0e02",
+      "repoRef": "v3.5.0",
+      "size": 681134,
+      "stars": 26,
+      "updated": "2026-09-08T07:38:19Z",
+      "url": "IAliceBobI/sy-progressive-plugin@282cbb9"
+    },
+    {
+      "installSize": 4001195,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
+          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
+        },
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "番茄钟",
+          "番茄",
+          "Pomodoro",
+          "闪卡",
+          "Flashcard",
+          "复习",
+          "Review",
+          "反链",
+          "Backlink",
+          "同步块",
+          "批注",
+          "思维导图",
+          "Mindmap",
+          "AI",
+          "问答",
+          "文档合并"
+        ],
+        "minAppVersion": "3.0.3",
+        "name": "sy-tomato-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "5.7.3"
+      },
+      "packageZipAssetId": 550072177,
+      "packageZipSha256": "c551a872aef78acb6918312e93da6ebe9f187edbf0042f8f55c4ecc301812b42",
+      "repoRef": "v5.7.3",
+      "size": 1229937,
+      "stars": 50,
+      "updated": "2026-09-08T07:37:25Z",
+      "url": "IAliceBobI/sy-tomato-plugin@c551a87"
+    },
+    {
+      "installSize": 7292561,
+      "openIssues": 1,
+      "package": {
+        "author": "LongDarkroom",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "RE word: select-to-lookup offline dictionary, hotkey word collection for review, AI deep-reading (study/chat modes), custom offline MDX dictionaries, drag SiYuan doc tabs into the chat as context",
+          "zh-CN": "RE word 词汇助手：选中单词一键查离线词典、框选快捷键自动收词复习、AI 精读（学习/对话模式）、支持自定义离线词典库（MDX），可把思源文档页签拖入对话框作为上下文。💡 使用前请先配置离线词典包，获取方式见 README 词典获取指南"
+        },
+        "displayName": {
+          "default": "RE word"
+        },
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "mobile",
+          "browser-mobile"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "vocabulary",
+          "english",
+          "dictionary",
+          "单词",
+          "词汇",
+          "词典",
+          "英语",
+          "复习"
+        ],
+        "minAppVersion": "3.7.0",
+        "name": "siyuan-plugin-reword",
+        "preview": "",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/LongDarkroom/siyuan-plugin-reword",
+        "version": "1.7.0"
+      },
+      "packageZipAssetId": 550028847,
+      "packageZipSha256": "a3f21f5a80830edef0d888f252f12bc11a5290c5189b77dfd267c3057f91b3f8",
+      "repoRef": "v1.7.0",
+      "size": 3043399,
+      "stars": 1,
+      "updated": "2026-09-08T06:58:02Z",
+      "url": "LongDarkroom/siyuan-plugin-reword@a3f21f5"
+    },
+    {
+      "installSize": 704625,
+      "openIssues": 0,
+      "package": {
+        "author": "gradypark86",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Quickly create a new or go to diary or weekly notes on the calendar panel, with support for periodic note templates",
+          "zh_CN": "在日历面板上快速新建或转到日记与周记，支持周期笔记模板"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Siyuan Calendar Panel",
+          "zh_CN": "思源日历面板"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "calendar",
+          "日历",
+          "日记",
+          "daily",
+          "weekly",
+          "周记"
+        ],
+        "minAppVersion": "2.13.0",
+        "name": "siyuan-plugin-calendar",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README_en_US.md",
+          "zh_CN": "README.md"
+        },
+        "url": "https://github.com/gradypark86/siyuan-plugin-calendar",
+        "version": "0.5.0"
+      },
+      "packageZipAssetId": 549973505,
+      "packageZipSha256": "b169075a117b19ff80decfc24ea5d8d05353bf38aada2791741eb142b4c06fee",
+      "repoRef": "v0.5.0",
+      "size": 303771,
+      "stars": 2,
+      "updated": "2026-09-08T06:08:40Z",
+      "url": "gradypark86/siyuan-plugin-calendar@b169075"
+    },
+    {
       "installSize": 197749,
       "openIssues": 0,
       "package": {
@@ -941,115 +1445,6 @@
       "url": "QYLexpired/Neo-Plus@ac04c41"
     },
     {
-      "installSize": 2503678,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · Finally finish what you read: excerpt &amp; piece-based progressive reading with sentence splitting, cloze deletion, word flashcards and Daily Card — a full loop from reading to review.",
-          "zh_CN": "🔓 已开源 · 让长文真正读得完：摘抄式与分片式渐进阅读，断句拆分、多行挖空、单词闪卡、Daily Card——从阅读输入到闪卡复习的完整闭环"
-        },
-        "displayName": {
-          "default": "Progressive Learning",
-          "zh_CN": "渐进学习"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "渐进学习",
-          "渐进阅读",
-          "Progressive Reading",
-          "挖空",
-          "Cloze",
-          "闪卡",
-          "Flashcard",
-          "摘抄",
-          "断句",
-          "Sentence Split",
-          "拼音",
-          "Pinyin",
-          "Daily Card"
-        ],
-        "minAppVersion": "2.12.6",
-        "name": "sy-progressive-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
-        "version": "3.4.3"
-      },
-      "packageZipAssetId": 548577376,
-      "packageZipSha256": "12111184affff3af24594dff3c7157a773e79b9d8b19fe48adadf62ec0706557",
-      "repoRef": "v3.4.3",
-      "size": 680298,
-      "stars": 26,
-      "updated": "2026-09-07T10:03:23Z",
-      "url": "IAliceBobI/sy-progressive-plugin@1211118"
-    },
-    {
-      "installSize": 3936131,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
-          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
-        },
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "番茄钟",
-          "番茄",
-          "Pomodoro",
-          "闪卡",
-          "Flashcard",
-          "复习",
-          "Review",
-          "反链",
-          "Backlink",
-          "同步块",
-          "批注",
-          "思维导图",
-          "Mindmap",
-          "AI",
-          "问答",
-          "文档合并"
-        ],
-        "minAppVersion": "3.0.3",
-        "name": "sy-tomato-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "5.7.2"
-      },
-      "packageZipAssetId": 548575309,
-      "packageZipSha256": "d306ad47f6fdc8f0af65d35a629e6dbea7c75973e98a3b607b3edd36753e4471",
-      "repoRef": "v5.7.2",
-      "size": 1211274,
-      "stars": 50,
-      "updated": "2026-09-07T10:01:51Z",
-      "url": "IAliceBobI/sy-tomato-plugin@d306ad4"
-    },
-    {
       "installSize": 2214439,
       "openIssues": 2,
       "package": {
@@ -1597,104 +1992,6 @@
       "url": "Misuzu2027/syplugin-document-search@a35b082"
     },
     {
-      "installSize": 409279,
-      "openIssues": 0,
-      "package": {
-        "author": "steve",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Advanced database attribute display plugin with field hiding, date formatting, checkbox beautification, and customizable settings. Supports 99% of blocks!",
-          "zh-CN": "数据库属性显示插件，把思源数据库炼化为超级标签！"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Database Display",
-          "zh-CN": "数据库属性展示"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "database",
-          "display",
-          "attribute",
-          "super-tag",
-          "超级标签"
-        ],
-        "minAppVersion": "3.8.2",
-        "name": "siyuan-database-display",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md"
-        },
-        "url": "https://github.com/loonghfut/siyuan-database-display",
-        "version": "5.1.1"
-      },
-      "packageZipAssetId": 545937863,
-      "packageZipSha256": "948f217e8fc2cb934b120c623c352d55e496767735ebe31f40c0b6f1b14da02a",
-      "repoRef": "v5.1.1",
-      "size": 178978,
-      "stars": 7,
-      "updated": "2026-09-05T14:51:18Z",
-      "url": "loonghfut/siyuan-database-display@948f217"
-    },
-    {
-      "installSize": 2454363,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "✍️ Read-then-rewrite practice on any document: mark &amp; tint, extract &amp; rewrite, compare with the original",
-          "zh_CN": "任意文档的读后仿写练习：批注变色、抽取仿写、对比原文"
-        },
-        "displayName": {
-          "default": "Recite Practice",
-          "zh_CN": "仿写练习"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "仿写",
-          "背诵",
-          "默写",
-          "批注",
-          "判卷",
-          "练习",
-          "写作",
-          "联想",
-          "Recite",
-          "Dictation",
-          "Writing",
-          "AI"
-        ],
-        "minAppVersion": "2.12.6",
-        "name": "sy-recite-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-recite-plugin",
-        "version": "1.2.7"
-      },
-      "packageZipAssetId": 545920144,
-      "packageZipSha256": "b1f36a63d556cd854d946a0138712c4fa97c068ff9bd0aee71cb8500f1bff20d",
-      "repoRef": "v1.2.7",
-      "size": 665981,
-      "stars": 2,
-      "updated": "2026-09-05T14:32:06Z",
-      "url": "IAliceBobI/sy-recite-plugin@b1f36a6"
-    },
-    {
       "installSize": 1064451,
       "openIssues": 0,
       "package": {
@@ -1794,55 +2091,6 @@
       "stars": 22,
       "updated": "2026-09-05T13:57:39Z",
       "url": "OpaqueGlass/syplugin-hierarchyNavigate@f9d2fa4"
-    },
-    {
-      "installSize": 911338,
-      "openIssues": 0,
-      "package": {
-        "author": "houm01",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A quiet collection of focused tools for SiYuan Note.",
-          "zh-CN": "一组安静、克制、专注的思源笔记实用工具。"
-        },
-        "displayName": {
-          "default": "Stillmark Workbench",
-          "zh-CN": "静痕工作台"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "kernels": [
-          "all"
-        ],
-        "keywords": [
-          "静痕",
-          "工作台",
-          "块样式",
-          "stillmark",
-          "workbench",
-          "block style"
-        ],
-        "minAppVersion": "3.7.0",
-        "name": "stillmark-workbench",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md"
-        },
-        "url": "https://github.com/houm01/stillmark-workbench",
-        "version": "0.4.10"
-      },
-      "packageZipAssetId": 545485527,
-      "packageZipSha256": "236f5c472269477b84a3f9e382c5682cf9550e67d4b6741d016574ce56bca81c",
-      "repoRef": "v0.4.10",
-      "size": 325637,
-      "stars": 1,
-      "updated": "2026-09-05T06:56:40Z",
-      "url": "houm01/stillmark-workbench@236f5c4"
     },
     {
       "installSize": 188073,
@@ -1981,55 +2229,6 @@
       "url": "HaoCeans/siyuan-toolbar-customizer@7829478"
     },
     {
-      "installSize": 5302411,
-      "openIssues": 1,
-      "package": {
-        "author": "LongDarkroom",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "RE word: select-to-lookup offline dictionary, hotkey word collection for review, AI deep-reading (study/chat modes), custom offline MDX dictionaries, drag SiYuan doc tabs into the chat as context",
-          "zh-CN": "RE word 词汇助手：选中单词一键查离线词典、框选快捷键自动收词复习、AI 精读（学习/对话模式）、支持自定义离线词典库（MDX），可把思源文档页签拖入对话框作为上下文。💡 使用前请先配置离线词典包，获取方式见 README 词典获取指南"
-        },
-        "displayName": {
-          "default": "RE word"
-        },
-        "frontends": [
-          "desktop",
-          "browser-desktop",
-          "mobile",
-          "browser-mobile"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "vocabulary",
-          "english",
-          "dictionary",
-          "单词",
-          "词汇",
-          "词典",
-          "英语",
-          "复习"
-        ],
-        "minAppVersion": "3.7.0",
-        "name": "siyuan-plugin-reword",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/LongDarkroom/siyuan-plugin-reword",
-        "version": "1.6.1"
-      },
-      "packageZipAssetId": 543554549,
-      "packageZipSha256": "117e476b1c887ff9ccf39b11c5098beb9c13177c33a5831a86d60514ab13ade1",
-      "repoRef": "v1.6.1",
-      "size": 1529634,
-      "stars": 1,
-      "updated": "2026-09-04T00:32:26Z",
-      "url": "LongDarkroom/siyuan-plugin-reword@117e476"
-    },
-    {
       "installSize": 740122,
       "openIssues": 13,
       "package": {
@@ -2074,59 +2273,6 @@
       "stars": 8,
       "updated": "2026-09-03T17:25:31Z",
       "url": "shenjinglei/siyuan-plugin-graph-enhance@8602d61"
-    },
-    {
-      "installSize": 2308447,
-      "openIssues": 6,
-      "package": {
-        "author": "frostime",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "en_US": "Personal tools. GPT Chat (API Key) | Toggl | Reference | Md Process | Zotero...",
-          "zh_CN": "个人插件合集. GPT 对话 (API Key) | Toggl | 引用管理 | Md 处理 | Zotero..."
-        },
-        "displayName": {
-          "en_US": "F&#39;s Toolbox",
-          "zh_CN": "F&#39;s 工具箱"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://afdian.com/a/frostime"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "frostime",
-          "toolbox",
-          "misc",
-          "gpt",
-          "chat",
-          "ai",
-          "toggl",
-          "fs",
-          "fmisc"
-        ],
-        "minAppVersion": "3.1.20",
-        "name": "sy-f-misc",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/frostime/sy-f-misc",
-        "version": "7.15.0"
-      },
-      "packageZipAssetId": 542669661,
-      "packageZipSha256": "bd9dcee6300091d081cbada02ba258b6528a3b3420294d28a8b16ab7701faa31",
-      "repoRef": "v7.15.0",
-      "size": 694066,
-      "stars": 29,
-      "updated": "2026-09-03T11:27:25Z",
-      "url": "frostime/sy-f-misc@bd9dcee"
     },
     {
       "installSize": 369197,
@@ -2343,52 +2489,6 @@
       "stars": 1,
       "updated": "2026-09-02T14:34:03Z",
       "url": "Cloudquill-Z/siyuan-dida@7220fda"
-    },
-    {
-      "installSize": 2634900,
-      "openIssues": 0,
-      "package": {
-        "author": "alone-tree",
-        "backends": [
-          "windows",
-          "darwin",
-          "linux"
-        ],
-        "description": {
-          "default": "Lean, fast, and hassle-free SiYuan MCP tool.",
-          "zh-CN": "让 AI Agent 通过 MCP 安全地阅读、搜索和修改你的思源笔记，重点优化长文档、表格、块引用等知识库场景"
-        },
-        "displayName": {
-          "default": "Siyuan Bridge",
-          "zh-CN": "思源桥"
-        },
-        "frontends": [
-          "desktop"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "siyuan",
-          "mcp",
-          "ai",
-          "knowledge-base"
-        ],
-        "minAppVersion": "3.3.0",
-        "name": "siyuan-bridge",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md"
-        },
-        "url": "https://github.com/alone-tree/siyuan-bridge",
-        "version": "1.8.2"
-      },
-      "packageZipAssetId": 540895662,
-      "packageZipSha256": "2923779c11aa16e96f43c5f0c2fe977b1276a0ca82b45a4488a926b4ecde57cc",
-      "repoRef": "v1.8.2",
-      "size": 2005327,
-      "stars": 10,
-      "updated": "2026-09-02T08:54:42Z",
-      "url": "alone-tree/siyuan-bridge@2923779"
     },
     {
       "installSize": 143107,
@@ -3000,53 +3100,6 @@
       "stars": 0,
       "updated": "2026-09-01T03:58:54Z",
       "url": "YanyingWei1997/siyuan-plugin-ying-kami-markdown@1041660"
-    },
-    {
-      "installSize": 674906,
-      "openIssues": 0,
-      "package": {
-        "author": "gradypark86",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Quickly create a new or go to diary or weekly notes on the calendar panel, with support for periodic note templates",
-          "zh_CN": "在日历面板上快速新建或转到日记与周记，支持周期笔记模板"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Siyuan Calendar Panel",
-          "zh_CN": "思源日历面板"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "calendar",
-          "日历",
-          "日记",
-          "daily",
-          "weekly",
-          "周记"
-        ],
-        "minAppVersion": "2.13.0",
-        "name": "siyuan-plugin-calendar",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README_en_US.md",
-          "zh_CN": "README.md"
-        },
-        "url": "https://github.com/gradypark86/siyuan-plugin-calendar",
-        "version": "0.4.0"
-      },
-      "packageZipAssetId": 538855866,
-      "packageZipSha256": "f301b75eb923a3b337e55d82ef3bc20e5466a56da280933e3213cb1289d9ddc3",
-      "repoRef": "v0.4.0",
-      "size": 293392,
-      "stars": 2,
-      "updated": "2026-09-01T03:03:29Z",
-      "url": "gradypark86/siyuan-plugin-calendar@f301b75"
     },
     {
       "installSize": 560536,
