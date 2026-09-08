@@ -1,6 +1,329 @@
 {
   "repos": [
     {
+      "installSize": 197749,
+      "openIssues": 0,
+      "package": {
+        "author": "liao-zh",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A light document navigation bar plugin for SiYuan",
+          "zh-CN": "一个文档导航条插件，在编辑区顶部显示文档路径和相邻文档"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Doc NavBar Light",
+          "zh-CN": "简易文档导航条"
+        },
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "desktop-window"
+        ],
+        "funding": {
+          "custom": [
+            ""
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "navigate",
+          "breadcrumb",
+          "导航",
+          "面包屑"
+        ],
+        "minAppVersion": "3.7.0",
+        "name": "siyuan-doc-navbar-light",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/liao-zh/siyuan-doc-navbar-light",
+        "version": "0.8.1"
+      },
+      "packageZipAssetId": 549774226,
+      "packageZipSha256": "6d73c7b1939f717f42db3c7e5024edfde07ecebde087daa6256616f16948b49c",
+      "repoRef": "v0.8.1",
+      "size": 156715,
+      "stars": 0,
+      "updated": "2026-09-08T03:05:48Z",
+      "url": "liao-zh/siyuan-doc-navbar-light@6d73c7b"
+    },
+    {
+      "installSize": 269673,
+      "openIssues": 0,
+      "package": {
+        "author": "liao-zh",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "A Siyuan plugin to work as a transfer station for the inbox",
+          "zh-CN": "用于简化收集箱中转站工作流的思源插件"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Inbox Transfer",
+          "zh-CN": "收集箱中转站"
+        },
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "desktop-window"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "inbox",
+          "收集箱"
+        ],
+        "minAppVersion": "3.7.0",
+        "name": "siyuan-inbox-transfer",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md"
+        },
+        "url": "https://github.com/liao-zh/siyuan-inbox-transfer",
+        "version": "0.7.1"
+      },
+      "packageZipAssetId": 549750417,
+      "packageZipSha256": "1981182884b3f65ae9ab8c5efb6e456f2a4e0e9be704cbe6ad25f676540ab8da",
+      "repoRef": "v0.7.1",
+      "size": 209548,
+      "stars": 0,
+      "updated": "2026-09-08T02:45:07Z",
+      "url": "liao-zh/siyuan-inbox-transfer@1981182"
+    },
+    {
+      "installSize": 5132614,
+      "openIssues": 2,
+      "package": {
+        "author": "Wetoria",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Full-Process solution for SiYuan Note. Include Quick Note, LifeLog, Reference Relationship, Bottom Backlink, Whiteboard, Audio and Video Timestamp, Comment for Reading, Style Shortcut Key, Format Brush, Mobile Nav, etc.",
+          "zh_CN": "思源笔记全流程解决方案。包含一键记事、LifeLog、引用关系、底部反链、白板、音视频时间戳、阅读批注、样式快捷键、格式刷、移动端底部导航栏等功能。"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Leaf Nest",
+          "zh_CN": "叶归"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://afdian.com/a/Wetoria"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "叶归",
+          "Leaf Nest",
+          "速记",
+          "白板",
+          "LifeLog",
+          "Whiteboard",
+          "音视频",
+          "时间戳",
+          "批注",
+          "备注",
+          "样式快捷键",
+          "格式刷",
+          "移动端",
+          "底部导航栏",
+          "引用关系",
+          "底部反链",
+          "enhance"
+        ],
+        "minAppVersion": "3.2.1",
+        "name": "sy-plugin-enhance",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/Wetoria/sy-plugin-enhance",
+        "version": "1.12.6"
+      },
+      "packageZipAssetId": 549730314,
+      "packageZipSha256": "11fd33f90366011e73be8536124317b501e5740c536f5e59d1b5f3309c25fcf7",
+      "repoRef": "v1.12.6",
+      "size": 1789635,
+      "stars": 26,
+      "updated": "2026-09-08T02:26:54Z",
+      "url": "Wetoria/sy-plugin-enhance@11fd33f"
+    },
+    {
+      "installSize": 61907987,
+      "openIssues": 5,
+      "package": {
+        "author": "cowboy",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker",
+          "ios",
+          "android",
+          "harmony"
+        ],
+        "description": {
+          "en_US": "Draw.io integrated as a plugin into Siyuan",
+          "zh_CN": "Draw.io以插件形式集成到思源中"
+        },
+        "displayName": {
+          "en_US": "Siyuan Draw.io Plugin",
+          "zh_CN": "思源Draw.io插件"
+        },
+        "frontends": [
+          "desktop",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "funding": {
+          "custom": [
+            ""
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "plugin",
+          "drawio"
+        ],
+        "minAppVersion": "3.0.12",
+        "name": "siyuan-drawio-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/zt8989/siyuan-drawio-plugin",
+        "version": "1.0.42"
+      },
+      "packageZipAssetId": 549711366,
+      "packageZipSha256": "ca493cc1b5e4fb1cc46177a20918a35871bfaba0ea0f14c5bac1c6a0eaa1a9e3",
+      "repoRef": "v1.0.42",
+      "size": 29103481,
+      "stars": 41,
+      "updated": "2026-09-08T02:07:53Z",
+      "url": "zt8989/siyuan-drawio-plugin@ca493cc"
+    },
+    {
+      "installSize": 15964748,
+      "openIssues": 0,
+      "package": {
+        "author": "5kyfkr",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Aggregate tasks across documents with rule-based filters, grouping/sorting, configurable columns, and a quickbar editor for SiYuan.",
+          "zh_CN": "思源笔记任务管理器：汇总多文档任务，支持AI助手/白板/时间轴/日历/看板/清单/表格视图/四象限分组/悬浮条快速编辑/自定义加权排序。支持与底栏番茄钟联动、移动端原生日程通知"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "Task Horizon",
+          "zh_CN": "任务管理器"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://free.picui.cn/free/2026/02/25/699f05ad97ce4.png"
+          ]
+        },
+        "icon": "icon.png",
+        "kernels": [
+          "all"
+        ],
+        "keywords": [
+          "task",
+          "manager",
+          "filter"
+        ],
+        "minAppVersion": "3.8.1",
+        "name": "siyuan-plugin-task-horizon",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md"
+        },
+        "url": "https://github.com/5kyfkr/siyuan-plugin-task-horizon",
+        "version": "2.9.9"
+      },
+      "packageZipAssetId": 549584841,
+      "packageZipSha256": "bc23a00d974db460ba4420e275eefb244d4f141ed0b1cdf1765bd979869c3368",
+      "repoRef": "v2.9.9",
+      "size": 3282810,
+      "stars": 37,
+      "updated": "2026-09-08T00:22:24Z",
+      "url": "5kyfkr/siyuan-plugin-task-horizon@bc23a00"
+    },
+    {
+      "installSize": 10249074,
+      "openIssues": 2,
+      "package": {
+        "author": "steve",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
+          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
+          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
+        },
+        "disabledInPublish": true,
+        "displayName": {
+          "default": "STtldraw",
+          "zh-CN": "ST白板",
+          "zh_CN": "ST白板"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "白板",
+          "whiteboard",
+          "handwriting",
+          "drawing",
+          "sketch",
+          "mindmap"
+        ],
+        "minAppVersion": "3.8.0",
+        "name": "siyuan-steve-tldraw",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README.zh-CN.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
+        "version": "4.3.1"
+      },
+      "packageZipAssetId": 549567328,
+      "packageZipSha256": "098ce6d54779d7820f9231e3b60fa34696b5462ee09b1a5cd763e34af622dfa3",
+      "repoRef": "v4.3.1",
+      "size": 4027141,
+      "stars": 3,
+      "updated": "2026-09-08T00:07:43Z",
+      "url": "loonghfut/siyuan-steve-tldraw@098ce6d"
+    },
+    {
       "installSize": 973470,
       "openIssues": 0,
       "package": {
@@ -727,61 +1050,6 @@
       "url": "IAliceBobI/sy-tomato-plugin@d306ad4"
     },
     {
-      "installSize": 10266283,
-      "openIssues": 3,
-      "package": {
-        "author": "steve",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "(Split from STtools plugin) Integrate tldraw whiteboard tool, deeply linked with SiYuan Note, with interaction part borrowed from affine",
-          "zh-CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine",
-          "zh_CN": "(拆分自STtools插件)集成 tldraw 白板工具，深度联动思源笔记，交互部分借鉴affine"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "STtldraw",
-          "zh-CN": "ST白板",
-          "zh_CN": "ST白板"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://pic.imgdb.cn/item/6751b929d0e0a243d4de55a7.png"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "白板",
-          "whiteboard",
-          "handwriting",
-          "drawing",
-          "sketch",
-          "mindmap"
-        ],
-        "minAppVersion": "3.8.0",
-        "name": "siyuan-steve-tldraw",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/loonghfut/siyuan-steve-tldraw",
-        "version": "4.3.0"
-      },
-      "packageZipAssetId": 548143172,
-      "packageZipSha256": "bd6c39912c068faab6a188ae0155480067f1922702a29f3c3f43ab0ffa51b860",
-      "repoRef": "v4.3.0",
-      "size": 4031083,
-      "stars": 3,
-      "updated": "2026-09-07T04:18:54Z",
-      "url": "loonghfut/siyuan-steve-tldraw@bd6c399"
-    },
-    {
       "installSize": 2214439,
       "openIssues": 2,
       "package": {
@@ -1329,63 +1597,6 @@
       "url": "Misuzu2027/syplugin-document-search@a35b082"
     },
     {
-      "installSize": 79959376,
-      "openIssues": 5,
-      "package": {
-        "author": "cowboy",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker",
-          "ios",
-          "android",
-          "harmony"
-        ],
-        "description": {
-          "en_US": "Draw.io integrated as a plugin into Siyuan",
-          "zh_CN": "Draw.io以插件形式集成到思源中"
-        },
-        "displayName": {
-          "en_US": "Siyuan Draw.io Plugin",
-          "zh_CN": "思源Draw.io插件"
-        },
-        "frontends": [
-          "desktop",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "funding": {
-          "custom": [
-            ""
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "plugin",
-          "drawio"
-        ],
-        "minAppVersion": "3.0.12",
-        "name": "siyuan-drawio-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/zt8989/siyuan-drawio-plugin",
-        "version": "1.0.41"
-      },
-      "packageZipAssetId": 545938886,
-      "packageZipSha256": "6a29a84b15a91289eba06779058904430e820a174408b59f445e2c6ba9fac47b",
-      "repoRef": "v1.0.41",
-      "size": 33013686,
-      "stars": 41,
-      "updated": "2026-09-05T14:52:21Z",
-      "url": "zt8989/siyuan-drawio-plugin@6a29a84"
-    },
-    {
       "installSize": 409279,
       "openIssues": 0,
       "package": {
@@ -1708,57 +1919,6 @@
       "stars": 9,
       "updated": "2026-09-04T23:30:17Z",
       "url": "OpaqueGlass/syplugin-fakeDocBreadcrumb@4c5102d"
-    },
-    {
-      "installSize": 16035244,
-      "openIssues": 0,
-      "package": {
-        "author": "5kyfkr",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Aggregate tasks across documents with rule-based filters, grouping/sorting, configurable columns, and a quickbar editor for SiYuan.",
-          "zh_CN": "思源笔记任务管理器：汇总多文档任务，支持AI助手/白板/时间轴/日历/看板/清单/表格视图/四象限分组/悬浮条快速编辑/自定义加权排序。支持与底栏番茄钟联动、移动端原生日程通知"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Task Horizon",
-          "zh_CN": "任务管理器"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://free.picui.cn/free/2026/02/25/699f05ad97ce4.png"
-          ]
-        },
-        "icon": "icon.png",
-        "kernels": [
-          "all"
-        ],
-        "keywords": [
-          "task",
-          "manager",
-          "filter"
-        ],
-        "minAppVersion": "3.8.1",
-        "name": "siyuan-plugin-task-horizon",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md"
-        },
-        "url": "https://github.com/5kyfkr/siyuan-plugin-task-horizon",
-        "version": "2.9.8"
-      },
-      "packageZipAssetId": 544836942,
-      "packageZipSha256": "7a8df2c1b04aad4d974f8efb39ee70d971c81e20136305bdcca8c0b3e2a0e6af",
-      "repoRef": "v2.9.8",
-      "size": 3290178,
-      "stars": 36,
-      "updated": "2026-09-04T20:04:10Z",
-      "url": "5kyfkr/siyuan-plugin-task-horizon@7a8df2c"
     },
     {
       "installSize": 6491500,
@@ -3244,49 +3404,6 @@
       "url": "DUZSSY/siyuan-ai-assistant@41bf6d0"
     },
     {
-      "installSize": 269656,
-      "openIssues": 0,
-      "package": {
-        "author": "liao-zh",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A Siyuan plugin to work as a transfer station for the inbox",
-          "zh-CN": "用于简化收集箱中转站工作流的思源插件"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Inbox Transfer",
-          "zh-CN": "收集箱中转站"
-        },
-        "frontends": [
-          "desktop",
-          "browser-desktop",
-          "desktop-window"
-        ],
-        "keywords": [
-          "inbox",
-          "收集箱"
-        ],
-        "minAppVersion": "3.7.0",
-        "name": "siyuan-inbox-transfer",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md"
-        },
-        "url": "https://github.com/liao-zh/siyuan-inbox-transfer",
-        "version": "0.7.0"
-      },
-      "packageZipAssetId": 536824440,
-      "packageZipSha256": "44c004d060831eda70d83883b82f28bec3168c37e97b82ef18d35440d87a71ff",
-      "repoRef": "v0.7.0",
-      "size": 209537,
-      "stars": 0,
-      "updated": "2026-08-30T16:40:51Z",
-      "url": "liao-zh/siyuan-inbox-transfer@44c004d"
-    },
-    {
       "installSize": 1564012,
       "openIssues": 2,
       "package": {
@@ -3338,117 +3455,6 @@
       "stars": 1,
       "updated": "2026-08-30T15:32:35Z",
       "url": "MDfox-ChaosZone/siyuan-font-studio@d629f3b"
-    },
-    {
-      "installSize": 5150194,
-      "openIssues": 2,
-      "package": {
-        "author": "Wetoria",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Full-Process solution for SiYuan Note. Include Quick Note, LifeLog, Reference Relationship, Bottom Backlink, Whiteboard, Audio and Video Timestamp, Comment for Reading, Style Shortcut Key, Format Brush, Mobile Nav, etc.",
-          "zh_CN": "思源笔记全流程解决方案。包含一键记事、LifeLog、引用关系、底部反链、白板、音视频时间戳、阅读批注、样式快捷键、格式刷、移动端底部导航栏等功能。"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Leaf Nest",
-          "zh_CN": "叶归"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://afdian.com/a/Wetoria"
-          ]
-        },
-        "keywords": [
-          "叶归",
-          "Leaf Nest",
-          "速记",
-          "白板",
-          "LifeLog",
-          "Whiteboard",
-          "音视频",
-          "时间戳",
-          "批注",
-          "备注",
-          "样式快捷键",
-          "格式刷",
-          "移动端",
-          "底部导航栏",
-          "引用关系",
-          "底部反链",
-          "enhance"
-        ],
-        "minAppVersion": "3.2.1",
-        "name": "sy-plugin-enhance",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/Wetoria/sy-plugin-enhance",
-        "version": "1.12.4"
-      },
-      "packageZipAssetId": 536661648,
-      "packageZipSha256": "8c47e63e42e5e8179ba386e779afbf72cebe38b21d1c87a3ed88bf4affd0b68d",
-      "repoRef": "v1.12.4",
-      "size": 1794594,
-      "stars": 26,
-      "updated": "2026-08-30T13:47:55Z",
-      "url": "Wetoria/sy-plugin-enhance@8c47e63"
-    },
-    {
-      "installSize": 197732,
-      "openIssues": 0,
-      "package": {
-        "author": "liao-zh",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "A light document navigation bar plugin for SiYuan",
-          "zh-CN": "一个文档导航条插件，在编辑区顶部显示文档路径和相邻文档"
-        },
-        "disabledInPublish": true,
-        "displayName": {
-          "default": "Doc NavBar Light",
-          "zh-CN": "简易文档导航条"
-        },
-        "frontends": [
-          "desktop",
-          "browser-desktop",
-          "desktop-window"
-        ],
-        "funding": {
-          "custom": [
-            ""
-          ]
-        },
-        "keywords": [
-          "navigate",
-          "breadcrumb",
-          "导航",
-          "面包屑"
-        ],
-        "minAppVersion": "3.7.0",
-        "name": "siyuan-doc-navbar-light",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README.zh-CN.md"
-        },
-        "url": "https://github.com/liao-zh/siyuan-doc-navbar-light",
-        "version": "0.8.0"
-      },
-      "packageZipAssetId": 536425018,
-      "packageZipSha256": "21f507157075baa4293c4f8fd702eb83c1f6aae3f864b80602d4f134b4556973",
-      "repoRef": "v0.8.0",
-      "size": 156704,
-      "stars": 0,
-      "updated": "2026-08-30T09:45:56Z",
-      "url": "liao-zh/siyuan-doc-navbar-light@21f5071"
     },
     {
       "installSize": 81298,
