@@ -1,6 +1,224 @@
 {
   "repos": [
     {
+      "installSize": 2985330,
+      "openIssues": 0,
+      "package": {
+        "author": "fyuan",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "Inspired by Cursor and Notion: a clean, modern layout and interaction. Please install the cursor极简 theme and the cursor极简工具 plugin together.",
+          "zh-CN": "参考 Cursor 和 Notion 优化布局和交互，主打简洁、现代化。请务必同时安装主题「cursor极简」和插件「cursor极简工具」，配套使用。"
+        },
+        "displayName": {
+          "default": "cursor极简工具"
+        },
+        "frontends": [
+          "all"
+        ],
+        "funding": {
+          "custom": [
+            "https://siyuan.ysoft.site"
+          ]
+        },
+        "icon": "icon.png",
+        "keywords": [
+          "cursor",
+          "cursorart",
+          "theme",
+          "极简",
+          "favorites",
+          "slash",
+          "fhelper"
+        ],
+        "minAppVersion": "3.1.27",
+        "name": "cursorart-tools",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh-CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/fyuanace/cursorart-tools",
+        "version": "1.2.10"
+      },
+      "packageZipAssetId": 552214825,
+      "packageZipSha256": "292eb083b9cda956b2a5ea1744b975e9249a379c5604865b82f00ce4a52f9104",
+      "repoRef": "v1.2.10",
+      "size": 2454717,
+      "stars": 1,
+      "updated": "2026-09-09T07:09:51Z",
+      "url": "fyuanace/cursorart-tools@292eb08"
+    },
+    {
+      "installSize": 4061580,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · The all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI Q&amp;A, flashcards, reading points &amp; annotations, float-ball quick capture, sync blocks &amp; mind guides — 15 domains, 40+ features covering time, reading, review and AI.",
+          "zh_CN": "🔓 已开源 · 思源笔记的全能效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、阅读点与批注、悬浮球速记、同步块与思维导线——15 个分区 40+ 项功能，时间、阅读、复习、AI 一个插件全覆盖"
+        },
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "番茄钟",
+          "番茄",
+          "Pomodoro",
+          "闪卡",
+          "Flashcard",
+          "复习",
+          "Review",
+          "反链",
+          "Backlink",
+          "同步块",
+          "批注",
+          "思维导图",
+          "Mindmap",
+          "AI",
+          "问答",
+          "文档合并",
+          "悬浮球",
+          "速记",
+          "闪念",
+          "阅读点"
+        ],
+        "minAppVersion": "3.0.3",
+        "name": "sy-tomato-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "5.7.7"
+      },
+      "packageZipAssetId": 552112675,
+      "packageZipSha256": "ad4c12c9b53d5e84529e4a0f38803b9c9c87b135f749d62d655351a59c1b5802",
+      "repoRef": "v5.7.7",
+      "size": 1248610,
+      "stars": 50,
+      "updated": "2026-09-09T05:59:09Z",
+      "url": "IAliceBobI/sy-tomato-plugin@ad4c12c"
+    },
+    {
+      "installSize": 2622717,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "✍️ Read-then-rewrite practice on any document: mark &amp; tint, extract &amp; rewrite, compare with the original",
+          "zh_CN": "任意文档的读后仿写练习：批注变色、抽取仿写、对比原文"
+        },
+        "displayName": {
+          "default": "Recite Practice",
+          "zh_CN": "仿写练习"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "仿写",
+          "背诵",
+          "默写",
+          "批注",
+          "判卷",
+          "练习",
+          "写作",
+          "联想",
+          "Recite",
+          "Dictation",
+          "Writing",
+          "AI"
+        ],
+        "minAppVersion": "2.12.6",
+        "name": "sy-recite-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-recite-plugin",
+        "version": "1.2.9"
+      },
+      "packageZipAssetId": 552038058,
+      "packageZipSha256": "6d66db4e61943dc9d6ee8b75b6ac8bfd7b71bc38b0a79fdcde3e99fe7e583c18",
+      "repoRef": "v1.2.9",
+      "size": 727517,
+      "stars": 2,
+      "updated": "2026-09-09T05:06:46Z",
+      "url": "IAliceBobI/sy-recite-plugin@6d66db4"
+    },
+    {
+      "installSize": 2635002,
+      "openIssues": 0,
+      "package": {
+        "author": "IAliceBobI",
+        "backends": [
+          "all"
+        ],
+        "description": {
+          "default": "🔓 Open source · Finally finish what you read — and what you write: progressive reading digests long-form input day by day, progressive writing queues your material into finished drafts — excerpts, slicing, cloze, flashcards, writing books &amp; compile-to-draft. A full loop from reading to writing.",
+          "zh_CN": "🔓 已开源 · 让长文读得完，让作品写得完：渐进阅读消化输入，渐进写作排队产出——摘抄、分片、挖空、闪卡、写作书素材入槽、汇编成稿，从阅读到写作的完整闭环"
+        },
+        "displayName": {
+          "default": "Progressive Learning",
+          "zh_CN": "渐进学习"
+        },
+        "frontends": [
+          "all"
+        ],
+        "icon": "icon.png",
+        "keywords": [
+          "渐进学习",
+          "渐进阅读",
+          "Progressive Reading",
+          "挖空",
+          "Cloze",
+          "闪卡",
+          "Flashcard",
+          "摘抄",
+          "断句",
+          "Sentence Split",
+          "拼音",
+          "Pinyin",
+          "Daily Card",
+          "渐进写作",
+          "Progressive Writing"
+        ],
+        "minAppVersion": "2.12.6",
+        "name": "sy-progressive-plugin",
+        "preview": "preview.png",
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md"
+        },
+        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
+        "version": "3.6.0"
+      },
+      "packageZipAssetId": 552036403,
+      "packageZipSha256": "040e45092b758ff79fba5756121617099fe6e1c40946db36fae6ed8f8dcfe221",
+      "repoRef": "v3.6.0",
+      "size": 696133,
+      "stars": 26,
+      "updated": "2026-09-09T05:05:39Z",
+      "url": "IAliceBobI/sy-progressive-plugin@040e450"
+    },
+    {
       "installSize": 856376,
       "openIssues": 0,
       "package": {
@@ -400,62 +618,6 @@
       "url": "gradypark86/siyuan-plugin-calendar@de0b34f"
     },
     {
-      "installSize": 4027702,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · An all-in-one productivity toolbox for SiYuan: status-bar Pomodoro, AI knowledge-base Q&amp;A, flashcards, sync blocks, block graphs and 19 more — covering time, editing, review and AI.",
-          "zh_CN": "🔓 已开源 · 为思源笔记打造的效率工具箱：状态栏番茄钟、AI 知识库问答、闪卡复习、同步块、块关系图等 24 项功能——时间管理、编辑增强、复习记忆、AI 问答一个插件全覆盖"
-        },
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "番茄钟",
-          "番茄",
-          "Pomodoro",
-          "闪卡",
-          "Flashcard",
-          "复习",
-          "Review",
-          "反链",
-          "Backlink",
-          "同步块",
-          "批注",
-          "思维导图",
-          "Mindmap",
-          "AI",
-          "问答",
-          "文档合并"
-        ],
-        "minAppVersion": "3.0.3",
-        "name": "sy-tomato-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "5.7.5"
-      },
-      "packageZipAssetId": 550661230,
-      "packageZipSha256": "178043418d990df14ea6b81b3f78c64dc12d61a5e4873add56b53a7c4ff8e133",
-      "repoRef": "v5.7.5",
-      "size": 1236963,
-      "stars": 50,
-      "updated": "2026-09-08T14:29:31Z",
-      "url": "IAliceBobI/sy-tomato-plugin@1780434"
-    },
-    {
       "installSize": 567889,
       "openIssues": 5,
       "package": {
@@ -493,57 +655,6 @@
       "stars": 22,
       "updated": "2026-09-08T14:10:53Z",
       "url": "OpaqueGlass/syplugin-hierarchyNavigate@163396e"
-    },
-    {
-      "installSize": 2983326,
-      "openIssues": 0,
-      "package": {
-        "author": "fyuan",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "Inspired by Cursor and Notion: a clean, modern layout and interaction. Adds CJK-Latin spacing, image optimization, favorites, and other highly requested features. Please use the theme and plugin together.",
-          "zh-CN": "参考 Cursor 和 Notion 优化布局和交互，主打简洁、现代化，提供中英文空格间隔、图片优化、收藏等呼声较高的功能。请务必插件和主题一起使用。"
-        },
-        "displayName": {
-          "default": "cursor极简工具"
-        },
-        "frontends": [
-          "all"
-        ],
-        "funding": {
-          "custom": [
-            "https://siyuan.ysoft.site"
-          ]
-        },
-        "icon": "icon.png",
-        "keywords": [
-          "cursor",
-          "cursorart",
-          "theme",
-          "极简",
-          "favorites",
-          "slash",
-          "fhelper"
-        ],
-        "minAppVersion": "3.1.27",
-        "name": "cursorart-tools",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh-CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/fyuanace/cursorart-tools",
-        "version": "1.2.9"
-      },
-      "packageZipAssetId": 550479238,
-      "packageZipSha256": "9412ffe5b06ceeb9a45de16d9b95f05b87cf629f48a08a03d3007b55933d0ce8",
-      "repoRef": "v1.2.9",
-      "size": 2454455,
-      "stars": 0,
-      "updated": "2026-09-08T12:42:32Z",
-      "url": "fyuanace/cursorart-tools@9412ffe"
     },
     {
       "installSize": 885679,
@@ -776,113 +887,6 @@
       "stars": 1,
       "updated": "2026-09-08T07:44:09Z",
       "url": "houm01/stillmark-workbench@083acba"
-    },
-    {
-      "installSize": 2553717,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "✍️ Read-then-rewrite practice on any document: mark &amp; tint, extract &amp; rewrite, compare with the original",
-          "zh_CN": "任意文档的读后仿写练习：批注变色、抽取仿写、对比原文"
-        },
-        "displayName": {
-          "default": "Recite Practice",
-          "zh_CN": "仿写练习"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "仿写",
-          "背诵",
-          "默写",
-          "批注",
-          "判卷",
-          "练习",
-          "写作",
-          "联想",
-          "Recite",
-          "Dictation",
-          "Writing",
-          "AI"
-        ],
-        "minAppVersion": "2.12.6",
-        "name": "sy-recite-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-recite-plugin",
-        "version": "1.2.8"
-      },
-      "packageZipAssetId": 550074397,
-      "packageZipSha256": "01fa321fca35dc14dae9ee5e61cdbf622336d323548755b477cdd19ec5c07594",
-      "repoRef": "v1.2.8",
-      "size": 707334,
-      "stars": 2,
-      "updated": "2026-09-08T07:39:27Z",
-      "url": "IAliceBobI/sy-recite-plugin@01fa321"
-    },
-    {
-      "installSize": 2585978,
-      "openIssues": 0,
-      "package": {
-        "author": "IAliceBobI",
-        "backends": [
-          "all"
-        ],
-        "description": {
-          "default": "🔓 Open source · Finally finish what you read — and what you write: progressive reading digests long-form input day by day, progressive writing queues your material into finished drafts — excerpts, slicing, cloze, flashcards, writing books &amp; compile-to-draft. A full loop from reading to writing.",
-          "zh_CN": "🔓 已开源 · 让长文读得完，让作品写得完：渐进阅读消化输入，渐进写作排队产出——摘抄、分片、挖空、闪卡、写作书素材入槽、汇编成稿，从阅读到写作的完整闭环"
-        },
-        "displayName": {
-          "default": "Progressive Learning",
-          "zh_CN": "渐进学习"
-        },
-        "frontends": [
-          "all"
-        ],
-        "icon": "icon.png",
-        "keywords": [
-          "渐进学习",
-          "渐进阅读",
-          "Progressive Reading",
-          "挖空",
-          "Cloze",
-          "闪卡",
-          "Flashcard",
-          "摘抄",
-          "断句",
-          "Sentence Split",
-          "拼音",
-          "Pinyin",
-          "Daily Card",
-          "渐进写作",
-          "Progressive Writing"
-        ],
-        "minAppVersion": "2.12.6",
-        "name": "sy-progressive-plugin",
-        "preview": "preview.png",
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md"
-        },
-        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
-        "version": "3.5.0"
-      },
-      "packageZipAssetId": 550073058,
-      "packageZipSha256": "282cbb97a65e6d3a0f950a3d85cdbe720dc532daa2b1eb1eb9a4acab8e8a0e02",
-      "repoRef": "v3.5.0",
-      "size": 681134,
-      "stars": 26,
-      "updated": "2026-09-08T07:38:19Z",
-      "url": "IAliceBobI/sy-progressive-plugin@282cbb9"
     },
     {
       "installSize": 7292561,
